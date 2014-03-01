@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 120
+test_gnsrecord_block_expiration
+test_gnsrecord_serialization
+test_gnsrecord_crypto
+zonefiles
+Makefile.in
+Makefile
+.deps
+
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/32149/gnunet/src/pt
+END
+gnunet-daemon-pt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31074/gnunet/src/pt/gnunet-daemon-pt.c
+END
+test_gnunet_vpn.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/29905/gnunet/src/pt/test_gnunet_vpn.c
+END
+test_gnunet_vpn.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30043/gnunet/src/pt/test_gnunet_vpn.conf
+END
+pt.conf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/24237/gnunet/src/pt/pt.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/32149/gnunet/src/pt/Makefile.am
+END
+test_gns_vpn.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31383/gnunet/src/pt/test_gns_vpn.c
+END
+test_gns_vpn.conf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/30043/gnunet/src/pt/test_gns_vpn.conf
+END

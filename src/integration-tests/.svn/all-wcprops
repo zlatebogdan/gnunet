@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/32326/gnunet/src/integration-tests
+END
+test_integration_clique.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/31703/gnunet/src/integration-tests/test_integration_clique.py.in
+END
+test_integration_reconnect_nat.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/31703/gnunet/src/integration-tests/test_integration_reconnect_nat.py.in
+END
+test_integration_bootstrap_and_connect.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/31703/gnunet/src/integration-tests/test_integration_bootstrap_and_connect.py.in
+END
+test_integration_disconnect.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31703/gnunet/src/integration-tests/test_integration_disconnect.py.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32149/gnunet/src/integration-tests/Makefile.am
+END
+gnunet_testing.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23697/gnunet/src/integration-tests/gnunet_testing.py.in
+END
+test_integration_disconnect_nat.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/31703/gnunet/src/integration-tests/test_integration_disconnect_nat.py.in
+END
+gnunet_pyexpect.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19822/gnunet/src/integration-tests/gnunet_pyexpect.py.in
+END
+test_integration_reconnect.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/31703/gnunet/src/integration-tests/test_integration_reconnect.py.in
+END

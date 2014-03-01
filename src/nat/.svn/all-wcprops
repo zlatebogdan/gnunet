@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/32441/gnunet/src/nat
+END
+nat_mini.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/32441/gnunet/src/nat/nat_mini.c
+END
+gnunet-helper-nat-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/30985/gnunet/src/nat/gnunet-helper-nat-server.c
+END
+gnunet-helper-nat-client-windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/29905/gnunet/src/nat/gnunet-helper-nat-client-windows.c
+END
+gnunet-helper-nat-client.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31270/gnunet/src/nat/gnunet-helper-nat-client.c
+END
+nat_auto.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31813/gnunet/src/nat/nat_auto.c
+END
+test_nat_test_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30043/gnunet/src/nat/test_nat_test_data.conf
+END
+test_nat_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30044/gnunet/src/nat/test_nat_data.conf
+END
+gnunet-nat-server-script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15780/gnunet/src/nat/gnunet-nat-server-script.sh
+END
+test_nat_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/32441/gnunet/src/nat/test_nat_test.c
+END
+nat_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31813/gnunet/src/nat/nat_test.c
+END
+test_nat.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/29767/gnunet/src/nat/test_nat.c
+END
+nat.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/32441/gnunet/src/nat/nat.c
+END
+gnunet-nat-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31559/gnunet/src/nat/gnunet-nat-server.c
+END
+nat.conf
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28706/gnunet/src/nat/nat.conf
+END
+gnunet-nat-client-script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15780/gnunet/src/nat/gnunet-nat-client-script.sh
+END
+nat.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/21285/gnunet/src/nat/nat.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32149/gnunet/src/nat/Makefile.am
+END
+gnunet-helper-nat-server-windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/29905/gnunet/src/nat/gnunet-helper-nat-server-windows.c
+END
+install-nat-helper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23025/gnunet/src/nat/install-nat-helper.sh
+END
+test_nat_mini.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31813/gnunet/src/nat/test_nat_mini.c
+END

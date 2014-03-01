@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/32438/gnunet/contrib
+END
+privacy-sensitive-symbols.mspec
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/29130/gnunet/contrib/privacy-sensitive-symbols.mspec
+END
+gns-form.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31672/gnunet/contrib/gns-form.xslt
+END
+lrn-indent.diff
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/16586/gnunet/contrib/lrn-indent.diff
+END
+regex_profiler_infiniband.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27773/gnunet/contrib/regex_profiler_infiniband.conf
+END
+timeout_watchdog_w32.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28792/gnunet/contrib/timeout_watchdog_w32.c
+END
+report.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23453/gnunet/contrib/report.sh
+END
+generate-monkey-db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29138/gnunet/contrib/generate-monkey-db.sh
+END
+bootstrap.min.css
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31672/gnunet/contrib/bootstrap.min.css
+END
+timeout_watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/16047/gnunet/contrib/timeout_watchdog.c
+END
+regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8537/gnunet/contrib/regression.sh
+END
+gnunet-chk.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/25837/gnunet/contrib/gnunet-chk.py
+END
+texi2html5-indent.diff
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/16603/gnunet/contrib/texi2html5-indent.diff
+END
+buildbot-update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14707/gnunet/contrib/buildbot-update.sh
+END
+colorit.conf
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/29289/gnunet/contrib/colorit.conf
+END
+testing_hostkeys.ecc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30567/gnunet/contrib/testing_hostkeys.ecc
+END
+testbed_infiniband.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27773/gnunet/contrib/testbed_infiniband.conf
+END
+testbed_supermuc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/32335/gnunet/contrib/testbed_supermuc.conf
+END
+pydiffer.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22819/gnunet/contrib/pydiffer.py.in
+END
+removetrailingwhitespace
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/16619/gnunet/contrib/removetrailingwhitespace
+END
+gnunet-gns-import.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32112/gnunet/contrib/gnunet-gns-import.sh
+END
+ssh-keys
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/32225/gnunet/contrib/ssh-keys
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/32438/gnunet/contrib/log.php
+END
+pydmesg
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/25854/gnunet/contrib/pydmesg
+END
+find_typedefs.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/16579/gnunet/contrib/find_typedefs.py
+END
+transport_ats_years.diff
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29656/gnunet/contrib/transport_ats_years.diff
+END
+testbed_cluster.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28756/gnunet/contrib/testbed_cluster.conf
+END
+gns-bcd.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31672/gnunet/contrib/gns-bcd.html
+END
+gnunet-logo-big.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8472/gnunet/contrib/gnunet-logo-big.png
+END
+pogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/32009/gnunet/contrib/pogen.sh
+END
+gnunet_janitor.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/22623/gnunet/contrib/gnunet_janitor.py.in
+END
+testbed_setup_pre_ecc_tree.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26243/gnunet/contrib/testbed_setup_pre_ecc_tree.sh
+END
+revisionary.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15269/gnunet/contrib/revisionary.sh
+END
+terminate.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/22624/gnunet/contrib/terminate.py.in
+END
+transpot_delay.patch
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27337/gnunet/contrib/transpot_delay.patch
+END
+gdb-iterate-dll.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/29352/gnunet/contrib/gdb-iterate-dll.py
+END
+logread.pl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31792/gnunet/contrib/logread.pl
+END
+repeat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8720/gnunet/contrib/repeat.sh
+END
+gns-form-fields.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31672/gnunet/contrib/gns-form-fields.xml
+END
+test_gnunet_prefix.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29905/gnunet/contrib/test_gnunet_prefix.c
+END
+gnunet-logo-color.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8472/gnunet/contrib/gnunet-logo-color.png
+END
+def.tex
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/31713/gnunet/contrib/def.tex
+END
+logread-ipc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/30654/gnunet/contrib/logread-ipc.sh
+END
+infiniband_cluster.hosts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27453/gnunet/contrib/infiniband_cluster.hosts
+END
+coverage.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23872/gnunet/contrib/coverage.sh
+END
+gnunet-logo.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31071/gnunet/contrib/gnunet-logo.pdf
+END
+ps_mem.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/27189/gnunet/contrib/ps_mem.py
+END
+buildslave-0.8.6p1-gnunet-w32.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26688/gnunet/contrib/buildslave-0.8.6p1-gnunet-w32.patch
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32149/gnunet/contrib/Makefile.am
+END
+logread-ipc-sdedit.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30654/gnunet/contrib/logread-ipc-sdedit.pl
+END
+testbed_cleanup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/26750/gnunet/contrib/testbed_cleanup.sh
+END
+gns-bcd.tex
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31607/gnunet/contrib/gns-bcd.tex
+END
+svn2cl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/18265/gnunet/contrib/svn2cl.xsl
+END
+gnunet_pyexpect.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/18320/gnunet/contrib/gnunet_pyexpect.py.in
+END
+testbed_perfhacks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26140/gnunet/contrib/testbed_perfhacks.patch
+END

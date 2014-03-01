@@ -1,0 +1,31 @@
+@INLINE@ template_cfg_peer2.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test_quota_compliance_peer2
+
+[transport-https_server]
+PORT = 3001
+KEY_FILE = https_key_quota_p2.key
+CERT_FILE = https_cert_qutoa_p2.crt
+
+[arm]
+PORT = 3006
+UNIXPATH = $GNUNET_RUNTIME_DIR/test_quota_compliance_https_arm_peer2.sock
+
+[statistics]
+PORT = 3005
+UNIXPATH = $GNUNET_RUNTIME_DIR/test_quota_compliance_https_statistics_peer2.sock
+
+[resolver]
+PORT = 3004
+UNIXPATH = $GNUNET_RUNTIME_DIR/test_quota_compliance_https_resolver_peer2.sock
+
+[peerinfo]
+PORT = 3003
+UNIXPATH = $GNUNET_RUNTIME_DIR/test_quota_compliance_https_peerinfo_peer2.sock
+
+[transport]
+PORT = 3002
+PLUGINS = https_server
+UNIXPATH = $GNUNET_RUNTIME_DIR/https_transport_peer2.sock
+
+

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/32149/gnunet/src/dns
+END
+gnunet-helper-dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30173/gnunet/src/dns/gnunet-helper-dns.c
+END
+gnunet-service-dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/31559/gnunet/src/dns/gnunet-service-dns.c
+END
+dnsparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31157/gnunet/src/dns/dnsparser.c
+END
+dnsstub.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31559/gnunet/src/dns/dnsstub.c
+END
+gnunet-dns-redirector.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/29905/gnunet/src/dns/gnunet-dns-redirector.c
+END
+gnunet-dns-monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29905/gnunet/src/dns/gnunet-dns-monitor.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32149/gnunet/src/dns/Makefile.am
+END
+dns.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/29905/gnunet/src/dns/dns.h
+END
+test_gnunet_dns.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27223/gnunet/src/dns/test_gnunet_dns.sh
+END
+dns.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31142/gnunet/src/dns/dns.conf.in
+END
+plugin_block_dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30096/gnunet/src/dns/plugin_block_dns.c
+END
+dns_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31559/gnunet/src/dns/dns_api.c
+END
+install-dns-helper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23025/gnunet/src/dns/install-dns-helper.sh
+END

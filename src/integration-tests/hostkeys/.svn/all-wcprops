@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31485/gnunet/src/integration-tests/hostkeys
+END
+c_no_nat_client_2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/30571/gnunet/src/integration-tests/hostkeys/c_no_nat_client_2
+END
+c_nat_client
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/30571/gnunet/src/integration-tests/hostkeys/c_nat_client
+END
+c_bootstrap_server
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/30571/gnunet/src/integration-tests/hostkeys/c_bootstrap_server
+END
+c_no_nat_client
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/30571/gnunet/src/integration-tests/hostkeys/c_no_nat_client
+END

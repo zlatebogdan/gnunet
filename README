@@ -1,0 +1,306 @@
+                       Welcome to GNUnet
+
+
+What is GNUnet?
+===============
+
+GNUnet is peer-to-peer framework focusing on security.  The first and
+primary application for GNUnet is anonymous file-sharing.  GNUnet is
+currently developed by a worldwide group of independent free software
+developers.  GNUnet is a GNU package (http://www.gnu.org/).
+
+This is an ALPHA release.  There are known and significant bugs as
+well as many missing features in this release.
+
+Additional documentation about GNUnet can be found at
+https://gnunet.org/.
+
+
+Dependencies:
+=============
+
+Please note that for many of its dependencies GNUnet requires very
+recent versions of the libraries which are often NOT to be found in
+stable distributions in 2011.  While using older packages may in some
+cases on some operating systems may seem to work in some limited
+fashion, we are in many cases aware of serious problems with older
+packages.  Hence please make sure to use  the versions listed below.
+
+These are the direct dependencies for running GNUnet:
+
+- libextractor  >= 0.6.1
+- libmicrohttpd >= 0.9.33
+- libgcrypt     >= 1.6
+- libgnurl      >= 7.34.0 (available from https://gnunet.org/gnurl)
+- libunistring  >= 0.9.2
+- gnutls        >= 3.2.5
+- libidn        >= 1.0
+- libglpk       >= 4.45
+- openssl       >= 1.0 (binary, used to generate X.509 certificate)
+- libltdl       >= 2.2 (part of GNU libtool)
+- sqlite        >= 3.8 (default database, required)
+- mysql         >= 5.1 (alternative to sqlite)
+- postgres      >= 8.3 (alternative to sqlite)
+- libopus       >= 0.9.14 (optional for experimental conversation tool)
+- libpulse      >= 2.0 (optional for experimental conversation tool)
+- libogg        >= 1.3.0 (optional for experimental conversation tool)
+- python-zbar   >= 0.10 (optional for gnunet-qr)
+- TeX Live      >= 2012 (optional for gnunet-bcd)
+
+Recommended autotools for compiling the SVN version are:
+- autoconf >= 2.59
+- automake >= 1.11.1
+- libtool  >= 2.2
+
+
+How to install?
+===============
+
+The fastest way is to use a binary package if it is available for your
+system.  For a more detailed description, read the installation
+instructions on the webpage at https://gnunet.org/installation.
+
+Note that some functions of GNUnet require "root" access.  GNUnet will
+install (tiny) SUID binaries for those functions is you run "make
+install" as root.  If you do not, GNUnet will still work, but some
+functionality will not be available (including certain forms of NAT
+traversal).
+
+GNUnet requires the GNU MP library (http://www.gnu.org/software/gmp/)
+and libgcrypt (http://www.gnupg.org/).  You can specify the path to
+libgcrypt by passing "--with-gcrypt=PATH" to configure.  You will also
+need either sqlite (http://www.sqlite.org/), MySQL
+(http://www.mysql.org/) or PostGres (http://www.postgres.org/).
+
+If you install from source, you need to install GNU libextractor first
+(download from http://www.gnu.org/software/libextractor/).  We also
+recommend installing GNU libmicrohttpd (download from
+http://www.gnu.org/software/libmicrohttpd/).  Then you can start the
+actual GNUnet compilation and installation process with:
+
+$ export GNUNET_PREFIX=/usr/local # or other directory of your choice
+# addgroup gnunetdns
+# adduser gnunet gnunet
+# ./configure --prefix=$GNUNET_PREFIX --with-extractor=$LE_PREFIX
+$ make
+# make install
+# sudo -u gnunet gnunet-arm -s
+
+Note that running the 'configure' and 'make install' steps as
+root (or with sudo) is required as some parts of the installation
+require the creation of SUID binaries.  The installation will
+work if you do not run these steps as root, but some components
+may not be installed in the perfect place or with the right
+permissions and thus won't work.
+
+This will create the users and groups needed for running GNUnet
+securely and then compile and install GNUnet to $GNUNET_PREFIX/bin/,
+$GNUNET_PREFIX/lib/ and $GNUNET_PREFIX/share/ and start the system
+with the default configuration.  It is strongly recommended that you
+add a user "gnunet" to run "gnunet-arm".  You can then still run the
+end-user applications as another user.
+
+If you create a system user "gnunet", it is recommended that you edit
+the configuration file slightly so that data can be stored in the
+system user home directory at "/var/lib/gnunet".  Depending on what
+the $HOME-directory of your "gnunet" user is, you might need to set
+the SERVICEHOME option in section "[PATHS]" to "/var/lib/gnunet" to
+do this.  Depending on your personal preferences, you may also want to
+use "/etc/gnunet.conf" for the location of the configuration file in
+this case (instead of ~gnunet/.config/gnunet.conf").  In this case,
+you need to start GNUnet using "gnunet-arm -s -c /etc/gnunet.conf" or
+set "XDG_CONFIG_HOME=/etc/".
+
+You can avoid running 'make install' as root if you run configure
+with the "--with-sudo=yes" option and have extensive sudo rights
+(can run "chmod +s" and "chown" via 'sudo').  If you run 'make install'
+as a normal user without sudo rights (or the configure option),
+certain binaries that require additional priviledges will not be
+installed properly (and autonomous NAT traversal, WLAN, DNS/GNS and
+the VPN will then not work).
+
+If you run 'configure' and 'make install' as root or use the SUDO
+option, GNUnet's build system will install "libnss_gns*" libraries to
+"/lib/" regardless (!) of the $GNUNET_PREFIX you might have specified,
+as those libraries must be in "/lib/".  If you are packaging GNUnet
+for binary distribution, this may cause your packaging script to miss
+those plugins, so you might need to do some additional manual work to
+include those libraries in your binary package(s).  Similarly, if you
+want to use the GNUnet naming system and did NOT run GNUnet's 'make
+install' process with SUDO rights, the libraries will be installed to
+"$GNUNET_PREFIX/lib" and you will have to move them to "/lib/"
+manually.
+
+Finally, if you are compiling the code from subversion, you have to
+run ". bootstrap" before ./configure.  If you receive an error during
+the running of ". bootstrap" that looks like "macro `AM_PATH_GTK' not
+found in library", you may need to run aclocal by hand with the -I
+option, pointing to your aclocal m4 macros, i.e.
+
+$ aclocal -I /usr/local/share/aclocal
+
+
+Configuration
+=============
+
+Note that additional, per-user configuration files can be created by
+each user.  However, this is usually not necessary as there are few
+per-user options that normal users would want to modify.  The defaults
+that are shipped with the installation are usually just fine.
+
+The gnunet-setup tool is particularly useful to generate the master
+configuration for the peer.  gnunet-setup can be used to configure and
+test (!) the network settings, choose which applications should be run
+and configure databases.  Other options you might want to control
+include system limitations (such as disk space consumption, bandwidth,
+etc.).  The resulting configuration files are human-readable and can
+theoretically be created or edited by hand.
+
+gnunet-setup is a separate download and requires somewhat recent
+versions of GTK+ and Glade. You can also create the configuration file
+by hand, but this is not recommended.  For more general information
+about the GNU build process read the INSTALL file.
+
+GNUnet uses two types of configuration files, one that specifies the
+system-wide defaults (typically located in
+$GNUNET_PREFIX/share/gnunet/config.d/) and a second one that overrides
+default values with user-specific preferences.  The user-specific
+configuration file should be located in "~/.config/gnunet.conf" or its
+location can be specified by giving the "-c" option to the respective
+GNUnet application.
+
+
+Usage
+=====
+
+First, you must obtain an initial list of GNUnet hosts.  Knowing a
+single peer is sufficient since after that GNUnet propagates
+information about other peers.  Note that the default configuration
+contains URLs from where GNUnet downloads an initial hostlist
+whenever it is started.  If you want to create an alternative URL for
+others to use, the file can be generated on any machine running
+GNUnet by periodically executing
+
+$ cat $SERVICEHOME/data/hosts/* > the_file
+
+and offering 'the_file' via your web server.  Alternatively, you can
+run the build-in web server by adding '-p' to the OPTIONS value
+in the "hostlist" section of gnunet.conf and opening the respective
+HTTPPORT to the public.
+
+If the solution with the hostlist URL is not feasible for your
+situation, you can also add hosts manually.  Simply copy the hostkeys
+to "$SERVICEHOME/data/hosts/" (where $SERVICEHOME is the directory
+specified in the gnunet.conf configuration file).  You can also use
+"gnunet-peerinfo -g" to GET a URI for a peer and "gnunet-peerinfo -p
+URI" to add a URI from another peer.  Finally, GNUnet peers that use
+UDP or WLAN will discover each other automatically (if they are in the
+vicinity of each other) using broadcasts (IPv4/WLAN) or multicasts
+(IPv6).
+
+The local node is started using "gnunet-arm -s".  GNUnet should run
+24/7 if you want to maximize your anonymity, as this makes partitioning
+attacks harder.
+
+Once your peer is running, you should then be able to access GNUnet
+using the shell:
+
+$ gnunet-search KEYWORD
+
+This will display a list of results to the console.  You can abort
+the command using "CTRL-C".  Then use
+
+$ gnunet-download -o FILENAME GNUNET_URI
+
+to retrieve a file.  The GNUNET_URI is printed by gnunet-search
+together with a description.  To publish files on GNUnet, use the
+"gnunet-publish" command.
+
+
+The GTK user interface is shipped separately.  After downloading and
+installing gnunet-gtk, you can invoke the setup tool and the
+file-sharing GUI with:
+
+$ gnunet-setup
+$ gnunet-fs-gtk
+
+For further documentation, see our webpage.
+
+
+Hacking GNUnet
+==============
+
+Contributions are welcome, please submit bugs to
+https://gnunet.org/bugs/.  Please make sure to run contrib/report.sh
+and include the output with your bug reports.  More about how to
+report bugs can be found in the GNUnet FAQ on the webpage.  Submit
+patches via E-Mail to gnunet-developers@gnu.org.
+
+In order to run the unit tests with "make check", you need to
+set an environment variable ("GNUNET_PREFIX") to the directory
+where GNUnet is installed (usually, GNUnet will use OS specific
+tricks in order to try to figure out the PREFIX, but since the
+testcase binaries are not installed, that trick does not work
+for them).  Also, before running any testcases, you must
+complete the installation first.  Quick summary:
+
+$ ./configure --prefix=$SOMEWHERE
+$ make
+$ make install
+$ export GNUNET_PREFIX=$SOMEWHERE
+$ make check
+
+Some of the testcases require python >= 2.6 and pexpect to be
+installed.  If any testcases fail to pass on your system, run
+"contrib/report.sh" and report the output together with
+information about the failing testcase to the Mantis bugtracking
+system at https://gnunet.org/bugs/.
+
+
+Running HTTP on port 80 and HTTPS on port 443
+=============================================
+
+In order to hide GNUnet's HTTP/HTTPS traffic perfectly, you might
+consider running GNUnet's HTTP/HTTPS transport on port 80/443.
+However, we do not recommend running GNUnet as root.  Instead, forward
+port 80 to say 1080 with this command (as root, in your startup
+scripts):
+
+# iptables -t nat -A PREROUTING -p tcp -m tcp --dport 80 -j REDIRECT --to-ports 1080
+
+or for HTTPS
+
+# iptables -t nat -A PREROUTING -p tcp -m tcp --dport 443 -j REDIRECT --to-ports 4433
+
+Then set in the HTTP section of gnunet.conf the "ADVERTISED_PORT" to
+"80" and "PORT" to 1080 and similarly in the HTTPS section the
+"ADVERTISED_PORT" to "443" and "PORT" to 4433.
+
+You can do the same trick for the TCP and UDP transports if you want
+to map them to a priviledged port (from the point of view of the
+network).  However, we are not aware of this providing any advantages
+at this point.
+
+If you are already running an HTTP or HTTPS server on port 80 (or 443),
+you may be able to configure it as a "ReverseProxy".  Here, you tell
+GNUnet that the externally visible URI is some sub-page on your website,
+and GNUnet can then tunnel its traffic via your existing HTTP server.
+This is particularly powerful if your existing server uses HTTPS, as
+it makes it harder for an adversary to distinguish normal traffic to
+your server from GNUnet traffic.  Finally, even if you just use HTTP,
+you might benefit (!) from ISP's traffic shaping as opposed to being
+throttled by ISPs that dislike P2P.  Details for configuring the
+reverse proxy are documented on our website.
+
+
+Stay tuned
+==========
+
+* https://gnunet.org/
+* https://gnunet.org/bugs/
+* https://gnunet.org/svn/
+* http://www.gnu.org/software/gnunet/
+* http://mail.gnu.org/mailman/listinfo/gnunet-developers
+* http://mail.gnu.org/mailman/listinfo/help-gnunet
+* http://mail.gnu.org/mailman/listinfo/info-gnunet
+* http://mail.gnu.org/mailman/listinfo/gnunet-svn

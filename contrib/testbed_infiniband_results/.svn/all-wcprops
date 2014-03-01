@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results
+END
+6000_connections_80000_peers_5_poc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results/6000_connections_80000_peers_5_poc.txt
+END
+6000_connections_10000_peers_100_poc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results/6000_connections_10000_peers_100_poc.txt
+END
+6000_connections_20000_peers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results/6000_connections_20000_peers.txt
+END
+6000_connections_10000_peers_20_poc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results/6000_connections_10000_peers_20_poc.txt
+END
+6000_connections_10000_peers_30_poc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results/6000_connections_10000_peers_30_poc.txt
+END
+6000_connections_40000_peers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results/6000_connections_40000_peers.txt
+END
+6000_connections_60000_peers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results/6000_connections_60000_peers.txt
+END
+30000_connections_90000_peers_30_poc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results/30000_connections_90000_peers_30_poc.txt
+END
+6000_connections_80000_peers_20_poc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results/6000_connections_80000_peers_20_poc.txt
+END
+6000_connections_60000_peers_5_poc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/24413/gnunet/contrib/testbed_infiniband_results/6000_connections_60000_peers_5_poc.txt
+END

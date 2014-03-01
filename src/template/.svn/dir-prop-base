@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 181
+test_template_api.gcda
+test_template_api.gcno
+test_template_api
+Makefile.in
+Makefile
+gnunet-template.gcno
+gnunet-template
+gnunet-service-template.gcno
+gnunet-service-template
+.deps
+
+END

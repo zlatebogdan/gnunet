@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 191
+gnunet-consensus-profiler
+gnunet-service-evil-consensus
+gnunet-consensus-start-peers
+gnunet-consensus-ibf
+gnunet-service-consensus
+gnunet-consensus
+Makefile.in
+consensus.conf
+.deps
+Makefile
+
+
+END

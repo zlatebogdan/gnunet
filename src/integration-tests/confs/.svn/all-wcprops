@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/32326/gnunet/src/integration-tests/confs
+END
+c_no_nat_client.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/31485/gnunet/src/integration-tests/confs/c_no_nat_client.conf
+END
+c_no_nat_client_2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/31485/gnunet/src/integration-tests/confs/c_no_nat_client_2.conf
+END
+c_nat_client.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31487/gnunet/src/integration-tests/confs/c_nat_client.conf
+END
+c_bootstrap_server.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/31482/gnunet/src/integration-tests/confs/c_bootstrap_server.conf
+END
+test_defaults.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/32326/gnunet/src/integration-tests/confs/test_defaults.conf
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 105
+gnunet-service-secretsharing
+gnunet-secretsharing-profiler
+secretsharing.conf
+Makefile.in
+Makefile
+.deps
+
+END

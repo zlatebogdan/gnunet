@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/32149/gnunet/src/dv
+END
+dv.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/31389/gnunet/src/dv/dv.h
+END
+test_transport_blacklist_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/29501/gnunet/src/dv/test_transport_blacklist_data.conf
+END
+test_transport_dv_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31626/gnunet/src/dv/test_transport_dv_data.conf
+END
+dv.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31142/gnunet/src/dv/dv.conf.in
+END
+dv_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/31553/gnunet/src/dv/dv_api.c
+END
+plugin_transport_dv.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/31907/gnunet/src/dv/plugin_transport_dv.c
+END
+test_transport_blacklist.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/29905/gnunet/src/dv/test_transport_blacklist.c
+END
+test_transport_dv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31552/gnunet/src/dv/test_transport_dv.c
+END
+gnunet-service-dv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32124/gnunet/src/dv/gnunet-service-dv.c
+END
+gnunet-dv.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31356/gnunet/src/dv/gnunet-dv.c
+END
+template_dv.conf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31571/gnunet/src/dv/template_dv.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/32149/gnunet/src/dv/Makefile.am
+END

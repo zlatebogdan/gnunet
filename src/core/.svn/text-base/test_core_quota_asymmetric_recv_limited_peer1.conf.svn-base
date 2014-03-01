@@ -1,0 +1,54 @@
+@INLINE@ test_core_defaults.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-gnunet-core-quota-asym-recv-lim-peer-1/
+
+[transport-tcp]
+PORT = 12488
+
+[arm]
+PORT = 12486
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-recv-p1-service-arm.sock
+
+[statistics]
+PORT = 12487
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-recv-p1-service-statistics.sock
+
+[resolver]
+PORT = 12484
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-recv-1-service-resolver.sock
+
+[peerinfo]
+PORT = 12489
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-recv-p1-service-peerinfo.sock
+
+[transport]
+PORT = 12485
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-recv-p1-service-transport.sock
+
+[transport-udp]
+PORT = 12489
+
+[ats]
+PORT = 12491
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-recv-p1-service-ats.sock
+# UNSPECIFIED
+UNSPECIFIED_QUOTA_IN =  1 MB
+UNSPECIFIED_QUOTA_OUT =  1 MB
+# LOOPBACK
+LOOPBACK_QUOTA_IN =  1 MB
+LOOPBACK_QUOTA_OUT =  1 MB
+# LAN
+LAN_QUOTA_IN =  1 MB
+LAN_QUOTA_OUT =  1 MB
+# WAN
+WAN_QUOTA_IN = 1 MB
+WAN_QUOTA_OUT = 1 MB
+# WLAN
+WLAN_QUOTA_IN =  1 MB
+WLAN_QUOTA_OUT =  1 MB
+
+
+[core]
+PORT = 12490
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-recv-p1-service-core.sock
+

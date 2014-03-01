@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/32448/gnunet/src
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/32174/gnunet/src/Makefile.am
+END

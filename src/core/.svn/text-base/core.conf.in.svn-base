@@ -1,0 +1,23 @@
+[core]
+AUTOSTART = @AUTOSTART@
+@JAVAPORT@PORT = 2092
+HOSTNAME = localhost
+BINARY = gnunet-service-core
+ACCEPT_FROM = 127.0.0.1;
+ACCEPT_FROM6 = ::1;
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-core.sock
+UNIX_MATCH_UID = YES
+UNIX_MATCH_GID = YES
+# DISABLE_SOCKET_FORWARDING = NO
+# USERNAME = 
+# MAXBUF =
+# TIMEOUT =
+# DISABLEV6 =
+# BINDTO =
+# REJECT_FROM =
+# REJECT_FROM6 =
+# PREFIX =
+
+# Note: this MUST be set to YES in production, only set to NO for testing
+# for performance (testbed/cluster-scale use!).
+USE_EPHEMERAL_KEYS = YES

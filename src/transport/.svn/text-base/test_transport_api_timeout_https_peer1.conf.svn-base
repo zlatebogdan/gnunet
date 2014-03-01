@@ -1,0 +1,27 @@
+@INLINE@ template_cfg_peer1.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-transport/api-https-p1/
+
+[transport-https_client]
+
+[arm]
+PORT = 12105
+
+[statistics]
+PORT = 12104
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-statistics.sock
+
+[resolver]
+PORT = 12103
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-resolver.sock
+
+[peerinfo]
+PORT = 12102
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-peerinfo.sock
+
+[transport]
+PORT = 12101
+PLUGINS = https_client
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-transport.sock
+
+

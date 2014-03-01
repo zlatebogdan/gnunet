@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/32149/gnunet/src/gnsrecord
+END
+gnsrecord_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30510/gnunet/src/gnsrecord/gnsrecord_misc.c
+END
+test_gnsrecord_block_expiration.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/30510/gnunet/src/gnsrecord/test_gnsrecord_block_expiration.c
+END
+test_gnsrecord_serialization.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30233/gnunet/src/gnsrecord/test_gnsrecord_serialization.c
+END
+gnsrecord_serialization.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30933/gnunet/src/gnsrecord/gnsrecord_serialization.c
+END
+test_gnsrecord_crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30304/gnunet/src/gnsrecord/test_gnsrecord_crypto.c
+END
+gnsrecord.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30225/gnunet/src/gnsrecord/gnsrecord.c
+END
+gnsrecord_crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/31606/gnunet/src/gnsrecord/gnsrecord_crypto.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32149/gnunet/src/gnsrecord/Makefile.am
+END
+plugin_gnsrecord_dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31559/gnunet/src/gnsrecord/plugin_gnsrecord_dns.c
+END

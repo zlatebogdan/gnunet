@@ -1,0 +1,10 @@
+@INLINE@ test_defaults.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-gnunet-datastore-plugin-postgres/
+
+[datastore]
+DATABASE = postgres
+
+[datastore-postgres]
+CONFIG = dbname=gnunetcheck
+

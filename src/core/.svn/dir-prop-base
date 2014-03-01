@@ -1,0 +1,29 @@
+K 10
+svn:ignore
+V 548
+test_core_api_mq
+gnunet-core
+core.conf
+gnunet-core-list-connections
+test_core_api_preferences
+test_core_api_send_to_self
+test_core_quota_compliance_symmetric
+test_core_quota_compliance_asymmetric_send_limited
+test_core_quota_compliance_asymmetric_recv_limited
+test_core_api_reliability
+core_api.gcno
+core_api.gcda
+test_core_api_start_only.gcda
+test_core_api.gcda
+gnunet-service-core.gcda
+test_core_api_start_only.gcno
+test_core_api_start_only
+test_core_api.gcno
+test_core_api
+Makefile.in
+Makefile
+gnunet-service-core.gcno
+gnunet-service-core
+.deps
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 132
+fragmentation.gcno
+fragmentation.gcda
+test_fragmentation.gcda
+test_fragmentation.gcno
+test_fragmentation
+Makefile.in
+Makefile
+.deps
+
+END

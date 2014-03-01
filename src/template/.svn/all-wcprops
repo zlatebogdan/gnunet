@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/32149/gnunet/src/template
+END
+template.conf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30044/gnunet/src/template/template.conf
+END
+test_template_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29766/gnunet/src/template/test_template_api.c
+END
+gnunet-service-template.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27347/gnunet/src/template/gnunet-service-template.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32149/gnunet/src/template/Makefile.am
+END
+gnunet-template.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/24693/gnunet/src/template/gnunet-template.c
+END

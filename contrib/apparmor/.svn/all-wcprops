@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/18662/gnunet/contrib/apparmor
+END
+usr.bin.gnunet-helper-nat-server
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18662/gnunet/contrib/apparmor/usr.bin.gnunet-helper-nat-server
+END

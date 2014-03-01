@@ -1,0 +1,39 @@
+[datastore]
+PORT = 22654
+QUOTA = 1 MB
+
+[dht]
+AUTOSTART = NO
+
+[dns]
+AUTOSTART = NO
+
+[mesh]
+AUTOSTART = NO
+
+[nse]
+AUTOSTART = NO
+
+[dv]
+AUTOSTART = NO
+
+[chat]
+AUTOSTART = NO
+
+[vpn]
+AUTOSTART = NO
+
+[gns]
+AUTOSTART = NO
+
+[dv]
+AUTOSTART = NO
+
+[namestore]
+AUTOSTART = NO
+
+[fs]
+AUTOSTART = NO
+
+[consensus]
+AUTOSTART = NO

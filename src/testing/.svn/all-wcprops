@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/32441/gnunet/src/testing
+END
+test_testing_servicestartup.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/29773/gnunet/src/testing/test_testing_servicestartup.c
+END
+testing.conf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/18196/gnunet/src/testing/testing.conf
+END
+test_testing_portreservation.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28665/gnunet/src/testing/test_testing_portreservation.c
+END
+list-keys.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31845/gnunet/src/testing/list-keys.c
+END
+test_testing_defaults.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/30043/gnunet/src/testing/test_testing_defaults.conf
+END
+test_testing_sharedservices.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/31559/gnunet/src/testing/test_testing_sharedservices.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/32149/gnunet/src/testing/Makefile.am
+END
+test_testing_sharedservices.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30044/gnunet/src/testing/test_testing_sharedservices.conf
+END
+test_testing_peerstartup.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31559/gnunet/src/testing/test_testing_peerstartup.c
+END
+gnunet-testing.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30096/gnunet/src/testing/gnunet-testing.c
+END
+test_testing_peerstartup2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31559/gnunet/src/testing/test_testing_peerstartup2.c
+END
+testing.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/32441/gnunet/src/testing/testing.c
+END

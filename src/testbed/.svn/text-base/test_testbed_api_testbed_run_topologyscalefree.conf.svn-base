@@ -1,0 +1,6 @@
+@INLINE@ test_testbed_api_template.conf
+
+[testbed]
+OVERLAY_TOPOLOGY = SCALE_FREE
+SCALE_FREE_TOPOLOGY_CAP = 70
+SCALE_FREE_TOPOLOGY_M = 5

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 118
+test_identity_defaults
+test_identity
+Makefile.in
+Makefile
+identity.conf
+gnunet-service-identity
+gnunet-identity
+.deps
+
+END

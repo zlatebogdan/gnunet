@@ -1,0 +1,773 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/32441/gnunet/src/util
+END
+test_getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29723/gnunet/src/util/test_getopt.c
+END
+test_connection_timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/30063/gnunet/src/util/test_connection_timeout.c
+END
+speedup.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31390/gnunet/src/util/speedup.c
+END
+container_multipeermap.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30676/gnunet/src/util/container_multipeermap.c
+END
+test_common_logging_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31507/gnunet/src/util/test_common_logging_dummy.c
+END
+test_mq.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/29905/gnunet/src/util/test_mq.c
+END
+test_common_logging_runtime_loglevels.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/32441/gnunet/src/util/test_common_logging_runtime_loglevels.c
+END
+test_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31559/gnunet/src/util/test_client.c
+END
+scheduler.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31747/gnunet/src/util/scheduler.c
+END
+container_meta_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/29905/gnunet/src/util/container_meta_data.c
+END
+winproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31702/gnunet/src/util/winproc.c
+END
+test_crypto_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/29723/gnunet/src/util/test_crypto_hash.c
+END
+os_priority.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/32441/gnunet/src/util/os_priority.c
+END
+network.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/32344/gnunet/src/util/network.c
+END
+server_mst.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31198/gnunet/src/util/server_mst.c
+END
+test_common_allocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/29723/gnunet/src/util/test_common_allocation.c
+END
+test_common_logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/29723/gnunet/src/util/test_common_logging.c
+END
+gnunet-uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/32441/gnunet/src/util/gnunet-uri.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/30689/gnunet/src/util/time.c
+END
+perf_crypto_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31860/gnunet/src/util/perf_crypto_hash.c
+END
+test_connection_addressing.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30063/gnunet/src/util/test_connection_addressing.c
+END
+test_speedup.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/29905/gnunet/src/util/test_speedup.c
+END
+test_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29723/gnunet/src/util/test_server.c
+END
+test_crypto_crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/29723/gnunet/src/util/test_crypto_crc.c
+END
+test_container_heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/29723/gnunet/src/util/test_container_heap.c
+END
+test_crypto_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29723/gnunet/src/util/test_crypto_random.c
+END
+test_container_bloomfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/29723/gnunet/src/util/test_container_bloomfilter.c
+END
+crypto_mpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31959/gnunet/src/util/crypto_mpi.c
+END
+server_nc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31197/gnunet/src/util/server_nc.c
+END
+test_os_start_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/32441/gnunet/src/util/test_os_start_process.c
+END
+common_allocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/31173/gnunet/src/util/common_allocation.c
+END
+container_slist.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31559/gnunet/src/util/container_slist.c
+END
+test_configuration_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17971/gnunet/src/util/test_configuration_data.conf
+END
+test_container_multipeermap.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/29723/gnunet/src/util/test_container_multipeermap.c
+END
+test_common_endian.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29723/gnunet/src/util/test_common_endian.c
+END
+program.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/32050/gnunet/src/util/program.c
+END
+test_bio.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/18394/gnunet/src/util/test_bio.c
+END
+test_mq_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30761/gnunet/src/util/test_mq_client.c
+END
+crypto_hkdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31858/gnunet/src/util/crypto_hkdf.c
+END
+mq.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/31240/gnunet/src/util/mq.c
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28501/gnunet/src/util/load.c
+END
+test_crypto_eddsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30533/gnunet/src/util/test_crypto_eddsa.c
+END
+getopt_helpers.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/29723/gnunet/src/util/getopt_helpers.c
+END
+test_plugin_plug.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12098/gnunet/src/util/test_plugin_plug.c
+END
+strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31836/gnunet/src/util/strings.c
+END
+test_os_network.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/29723/gnunet/src/util/test_os_network.c
+END
+test_disk.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/30148/gnunet/src/util/test_disk.c
+END
+test_peer.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/29905/gnunet/src/util/test_peer.c
+END
+test_service_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/18196/gnunet/src/util/test_service_data.conf
+END
+gnunet-qr.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31608/gnunet/src/util/gnunet-qr.py.in
+END
+plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31277/gnunet/src/util/plugin.c
+END
+test_server_with_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/29723/gnunet/src/util/test_server_with_client.c
+END
+test_container_slist.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31559/gnunet/src/util/test_container_slist.c
+END
+test_program.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/29723/gnunet/src/util/test_program.c
+END
+crypto_crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/29723/gnunet/src/util/crypto_crc.c
+END
+configuration.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32119/gnunet/src/util/configuration.c
+END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/32441/gnunet/src/util/helper.c
+END
+crypto_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31858/gnunet/src/util/crypto_hash.c
+END
+test_resolver_api_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30043/gnunet/src/util/test_resolver_api_data.conf
+END
+gnunet-helper-w32-console.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31834/gnunet/src/util/gnunet-helper-w32-console.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/32149/gnunet/src/util/Makefile.am
+END
+test_strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31836/gnunet/src/util/test_strings.c
+END
+resolver_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31721/gnunet/src/util/resolver_api.c
+END
+gnunet-helper-w32-console.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31834/gnunet/src/util/gnunet-helper-w32-console.h
+END
+server_tc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31559/gnunet/src/util/server_tc.c
+END
+gnunet-service-resolver.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31941/gnunet/src/util/gnunet-service-resolver.c
+END
+gnunet-resolver.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/29905/gnunet/src/util/gnunet-resolver.c
+END
+test_container_multihashmap32.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/29723/gnunet/src/util/test_container_multihashmap32.c
+END
+container_multihashmap32.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30511/gnunet/src/util/container_multihashmap32.c
+END
+bandwidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/32274/gnunet/src/util/bandwidth.c
+END
+test_crypto_ecdhe.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30533/gnunet/src/util/test_crypto_ecdhe.c
+END
+resolver.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31142/gnunet/src/util/resolver.conf.in
+END
+gnunet-config-diff.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/18000/gnunet/src/util/gnunet-config-diff.c
+END
+test_server_disconnect.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/29723/gnunet/src/util/test_server_disconnect.c
+END
+os_network.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/29905/gnunet/src/util/os_network.c
+END
+test_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28712/gnunet/src/util/test_time.c
+END
+test_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29905/gnunet/src/util/test_plugin.c
+END
+test_connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30063/gnunet/src/util/test_connection.c
+END
+test_speedup_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21669/gnunet/src/util/test_speedup_data.conf
+END
+test_server_with_client_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30063/gnunet/src/util/test_server_with_client_unix.c
+END
+test_server_mst_interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/29905/gnunet/src/util/test_server_mst_interrupt.c
+END
+test_connection_receive_cancel.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/30063/gnunet/src/util/test_connection_receive_cancel.c
+END
+bio.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/29905/gnunet/src/util/bio.c
+END
+test_crypto_symmetric.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/util/test_crypto_symmetric.c
+END
+crypto_symmetric.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30524/gnunet/src/util/crypto_symmetric.c
+END
+test_crypto_ecdsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30534/gnunet/src/util/test_crypto_ecdsa.c
+END
+test_container_meta_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/29723/gnunet/src/util/test_container_meta_data.c
+END
+test_strings_to_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/29905/gnunet/src/util/test_strings_to_data.c
+END
+crypto_ecc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/32384/gnunet/src/util/crypto_ecc.c
+END
+test_scheduler_delay.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/29905/gnunet/src/util/test_scheduler_delay.c
+END
+container_multihashmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30490/gnunet/src/util/container_multihashmap.c
+END
+service.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/32267/gnunet/src/util/service.c
+END
+crypto_paillier.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32186/gnunet/src/util/crypto_paillier.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/29723/gnunet/src/util/getopt.c
+END
+os_installation.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32146/gnunet/src/util/os_installation.c
+END
+gnunet-config.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/29905/gnunet/src/util/gnunet-config.c
+END
+resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28836/gnunet/src/util/resolver.h
+END
+test_configuration.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30143/gnunet/src/util/test_configuration.c
+END
+test_connection_timeout_no_connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/29723/gnunet/src/util/test_connection_timeout_no_connect.c
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/32267/gnunet/src/util/client.c
+END
+container_bloomfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/31559/gnunet/src/util/container_bloomfilter.c
+END
+crypto_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31828/gnunet/src/util/crypto_random.c
+END
+gnunet-scrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31871/gnunet/src/util/gnunet-scrypt.c
+END
+util.supp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/32322/gnunet/src/util/util.supp
+END
+gnunet-ecc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/32121/gnunet/src/util/gnunet-ecc.c
+END
+perf_crypto_symmetric.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29826/gnunet/src/util/perf_crypto_symmetric.c
+END
+disk.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/31559/gnunet/src/util/disk.c
+END
+peer.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/31559/gnunet/src/util/peer.c
+END
+common_logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32384/gnunet/src/util/common_logging.c
+END
+test_service.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/29905/gnunet/src/util/test_service.c
+END
+disk.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/29723/gnunet/src/util/disk.h
+END
+connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/32267/gnunet/src/util/connection.c
+END
+test_crypto_paillier.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/32186/gnunet/src/util/test_crypto_paillier.c
+END
+test_program_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/32150/gnunet/src/util/test_program_data.conf
+END
+w32cat.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28675/gnunet/src/util/w32cat.c
+END
+crypto_kdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31860/gnunet/src/util/crypto_kdf.c
+END
+common_endian.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/29905/gnunet/src/util/common_endian.c
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/30066/gnunet/src/util/server.c
+END
+test_crypto_hkdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18000/gnunet/src/util/test_crypto_hkdf.c
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31740/gnunet/src/util/signal.c
+END
+test_scheduler.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30173/gnunet/src/util/test_scheduler.c
+END
+container_heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31559/gnunet/src/util/container_heap.c
+END
+util.conf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/32389/gnunet/src/util/util.conf
+END
+perf_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29905/gnunet/src/util/perf_malloc.c
+END
+test_connection_transmit_cancel.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/29723/gnunet/src/util/test_connection_transmit_cancel.c
+END
+test_resolver_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32441/gnunet/src/util/test_resolver_api.c
+END
+win.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/29961/gnunet/src/util/win.c
+END
+test_container_multihashmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/29723/gnunet/src/util/test_container_multihashmap.c
+END

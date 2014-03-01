@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 424
+test_gnunet_statistics.py
+test_statistics_api_watch_zero_value
+statistics.conf
+test_statistics_api_watch
+test_statistics_api_loop
+statistics_api.gcno
+statistics_api.gcda
+test_statistics_api.gcda
+gnunet-statistics.gcda
+gnunet-service-statistics.gcda
+test_statistics_api.gcno
+test_statistics_api
+Makefile.in
+Makefile
+gnunet-statistics.gcno
+gnunet-statistics
+gnunet-service-statistics.gcno
+gnunet-service-statistics
+.deps
+.swp
+
+END

@@ -1,0 +1,28 @@
+K 10
+svn:ignore
+V 424
+test_gnunet_service_arm
+test_gnunet_arm.py
+arm.conf
+mockup-service.gcno
+gnunet-service-arm_interceptor.gcno
+gnunet-service-arm_interceptor.gcda
+test_gnunet_service_manager
+test_exponential_backoff
+mockup-service
+arm_api.gcno
+arm_api.gcda
+test_arm_api.gcda
+gnunet-service-arm.gcda
+gnunet-arm.gcda
+test_arm_api.gcno
+test_arm_api
+Makefile.in
+Makefile
+gnunet-service-arm.gcno
+gnunet-service-arm
+gnunet-arm.gcno
+gnunet-arm
+.deps
+
+END

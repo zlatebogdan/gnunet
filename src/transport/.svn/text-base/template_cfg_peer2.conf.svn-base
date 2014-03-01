@@ -1,0 +1,49 @@
+@INLINE@ test_transport_defaults.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-transport/api-tcp-p2/
+
+[nat]
+RETURN_LOCAL_ADDRESSES = YES
+DISABLEV6 = NO
+
+[transport-tcp]
+PORT = 12100
+TIMEOUT = 5 s
+
+[transport-udp]
+BROADCAST = NO
+
+[transport-unix]
+PORT = 12017
+
+[arm]
+PORT = 12014
+DEFAULTSERVICES = transport
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p2-service-arm.sock
+
+[statistics]
+PORT = 12013
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p2-service-statistics.sock
+
+[resolver]
+PORT = 12012
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p2-service-resolver.sock
+
+[peerinfo]
+PORT = 12011
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p2-service-peerinfo.sock
+USE_INCLUDED_HELLOS = NO
+
+[transport]
+#PREFIX = valgrind --leak-check=full
+PORT = 12010
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p2-service-transport.sock
+
+[ats]
+WAN_QUOTA_IN = unlimited
+WAN_QUOTA_OUT = unlimited
+PORT = 12016
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p2-service-ats.sock
+
+[hostlist]
+SERVERS = dummy

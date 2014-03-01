@@ -1,0 +1,60 @@
+.TH GNUNET\-GNS 1 "Aug 23, 2013" "GNUnet"
+
+.SH NAME
+gnunet\-gns \- Access to GNUnet Name Service
+
+.SH SYNOPSIS
+.B gnunet\-gns
+.RI [ options ]
+.br
+
+.SH DESCRIPTION
+\fBgnunet\-gns\fP can be used to lookup and process GNUnet Name Service names.
+
+.SH OPTIONS
+.B
+.IP "\-c FILENAME,  \-\-config=FILENAME"
+Use the configuration file FILENAME.
+.B
+.IP "\-r, \-\-raw"
+No unneeded output.
+This is a quiet mode where only important information is displayed.
+For example a lookup for an IP address will only yield the IP address, no
+descriptive text.
+.B
+.IP "\-h, \-\-help"
+Print short help on options.
+.B
+.IP "\-L LOGLEVEL, \-\-loglevel=LOGLEVEL"
+Use LOGLEVEL for logging.  Valid values are DEBUG, INFO, WARNING and ERROR.
+.B
+.IP "\-u NAME, \-\-lookup=NAME"
+Name to lookup.
+Resolve the specified name using the GNUnet Name System.
+.B
+.IP "\-p PKEY, \-\-public-key=PKEY"
+Public key of the zone to perform the lookup in.  This option should be used if the lookup is to be performed against a zone not controlled by this peer (alternatively, you could pass a ".zkey" for the name).
+.B
+.IP "\-T DELAY, \-\-timeout=DELAY"
+Set the timeout to DELAY.  By default, gnunet\-gns will continue to try to resolve the name until there is a definitive answer or until the user aborts with CTRL\-C.
+.B
+.IP "\-t TYPE, \-\-type=TYPE"
+Resource Record Type (TYPE) to look for.
+Supported TYPE's are: A, AAAA, CNAME, NS, PKEY, PSEU, TLSA, SRV, SOA, MX, LEHO, VPN, REV, PTR, TXT
+
+Defaults to "A".
+.B
+.IP "\-z NAME, \-\-zone=NAME"
+Name of the ego of the zone to lookup the record in.  The public key associated with the ego will be used for the zone.
+.B
+.IP "\-v, \-\-version"
+Print GNUnet version number.
+.B
+
+
+.SH BUGS
+Report bugs by using Mantis <https://gnunet.org/bugs/> or by sending electronic mail to <gnunet\-developers@gnu.org>
+
+
+.SH "SEE ALSO"
+\fBgnunet\-namestore\fP(1), \fBgnunet\-identity\fP(1)

@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/32379/gnunet/src/dht
+END
+gnunet-service-dht_hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32194/gnunet/src/dht/gnunet-service-dht_hello.c
+END
+gnunet-dht-monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29905/gnunet/src/dht/gnunet-dht-monitor.c
+END
+gnunet-service-dht_hello.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17061/gnunet/src/dht/gnunet-service-dht_hello.h
+END
+gnunet-service-xdht.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31986/gnunet/src/dht/gnunet-service-xdht.c
+END
+test_dht_2dtorus.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31382/gnunet/src/dht/test_dht_2dtorus.conf
+END
+test_dht_api_peer1.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31596/gnunet/src/dht/test_dht_api_peer1.conf
+END
+plugin_block_dht.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32235/gnunet/src/dht/plugin_block_dht.c
+END
+test_dht_multipeer.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30043/gnunet/src/dht/test_dht_multipeer.conf
+END
+gnunet-service-xdht.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31341/gnunet/src/dht/gnunet-service-xdht.h
+END
+dht_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31986/gnunet/src/dht/dht_api.c
+END
+test_dht_tools.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28673/gnunet/src/dht/test_dht_tools.py.in
+END
+gnunet-service-dht.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32142/gnunet/src/dht/gnunet-service-dht.c
+END
+gnunet-service-dht.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/17742/gnunet/src/dht/gnunet-service-dht.h
+END
+gnunet-dht-put.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31986/gnunet/src/dht/gnunet-dht-put.c
+END
+gnunet-service-xdht_clients.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32220/gnunet/src/dht/gnunet-service-xdht_clients.c
+END
+dht.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/29905/gnunet/src/dht/dht.h
+END
+test_dht_monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31559/gnunet/src/dht/test_dht_monitor.c
+END
+test_dht_multipeer_topology.dat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/25513/gnunet/src/dht/test_dht_multipeer_topology.dat
+END
+dht.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31142/gnunet/src/dht/dht.conf.in
+END
+gnunet-service-xdht_neighbours.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32379/gnunet/src/dht/gnunet-service-xdht_neighbours.c
+END
+gnunet-service-xdht_clients.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/31342/gnunet/src/dht/gnunet-service-xdht_clients.h
+END
+gnunet-service-dht_clients.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32237/gnunet/src/dht/gnunet-service-dht_clients.c
+END
+gnunet-service-xdht_neighbours.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32379/gnunet/src/dht/gnunet-service-xdht_neighbours.h
+END
+gnunet-service-dht_neighbours.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32379/gnunet/src/dht/gnunet-service-dht_neighbours.c
+END
+gnunet-service-dht_clients.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/29905/gnunet/src/dht/gnunet-service-dht_clients.h
+END
+test_dht_api_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30043/gnunet/src/dht/test_dht_api_data.conf
+END
+dht_test_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31559/gnunet/src/dht/dht_test_lib.c
+END
+gnunet-service-dht_neighbours.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/29905/gnunet/src/dht/gnunet-service-dht_neighbours.h
+END
+test_dht_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31986/gnunet/src/dht/test_dht_api.c
+END
+gnunet-service-xdht_nse.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31342/gnunet/src/dht/gnunet-service-xdht_nse.c
+END
+dht_test_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29905/gnunet/src/dht/dht_test_lib.h
+END
+gnunet-service-xdht_routing.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32379/gnunet/src/dht/gnunet-service-xdht_routing.c
+END
+gnunet-service-xdht_nse.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31342/gnunet/src/dht/gnunet-service-xdht_nse.h
+END
+gnunet-service-xdht_routing.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32379/gnunet/src/dht/gnunet-service-xdht_routing.h
+END
+test_dht_topo.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31559/gnunet/src/dht/test_dht_topo.c
+END
+gnunet-service-dht_nse.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/24948/gnunet/src/dht/gnunet-service-dht_nse.c
+END
+gnunet-service-xdht_datacache.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31342/gnunet/src/dht/gnunet-service-xdht_datacache.c
+END
+gnunet-service-dht_routing.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/29905/gnunet/src/dht/gnunet-service-dht_routing.c
+END
+gnunet-service-dht_nse.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17034/gnunet/src/dht/gnunet-service-dht_nse.h
+END
+gnunet-service-xdht_datacache.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31342/gnunet/src/dht/gnunet-service-xdht_datacache.h
+END
+gnunet-service-xdht_hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/31342/gnunet/src/dht/gnunet-service-xdht_hello.c
+END
+test_dht_tools.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16297/gnunet/src/dht/test_dht_tools.sh
+END
+gnunet-service-dht_routing.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/29477/gnunet/src/dht/gnunet-service-dht_routing.h
+END
+test_dht_line.conf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30043/gnunet/src/dht/test_dht_line.conf
+END
+gnunet-service-dht_datacache.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/29905/gnunet/src/dht/gnunet-service-dht_datacache.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32149/gnunet/src/dht/Makefile.am
+END
+test_dht_monitor.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30043/gnunet/src/dht/test_dht_monitor.conf
+END
+gnunet-dht-get.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31986/gnunet/src/dht/gnunet-dht-get.c
+END
+gnunet-service-xdht_hello.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/31342/gnunet/src/dht/gnunet-service-xdht_hello.h
+END
+gnunet-service-dht_datacache.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21926/gnunet/src/dht/gnunet-service-dht_datacache.h
+END

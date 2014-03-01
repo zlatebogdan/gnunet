@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 141
+test_transport_dv
+test_transport_blacklist
+gnunet-dv
+dv.conf
+topology.dot
+test_transport_api_dv
+gnunet-service-dv
+Makefile.in
+Makefile
+.deps
+
+END

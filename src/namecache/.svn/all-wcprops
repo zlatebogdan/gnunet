@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/32353/gnunet/src/namecache
+END
+test_namecache_api.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30230/gnunet/src/namecache/test_namecache_api.conf
+END
+gnunet-service-namecache.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/30656/gnunet/src/namecache/gnunet-service-namecache.c
+END
+test_plugin_namecache.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30230/gnunet/src/namecache/test_plugin_namecache.c
+END
+gnunet-namecache.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30690/gnunet/src/namecache/gnunet-namecache.c
+END
+plugin_namecache_sqlite.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30233/gnunet/src/namecache/plugin_namecache_sqlite.c
+END
+test_plugin_namecache_sqlite.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/30230/gnunet/src/namecache/test_plugin_namecache_sqlite.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32149/gnunet/src/namecache/Makefile.am
+END
+plugin_namecache_postgres.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/30286/gnunet/src/namecache/plugin_namecache_postgres.c
+END
+namecache.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30230/gnunet/src/namecache/namecache.h
+END
+test_namecache_api_cache_block.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/30536/gnunet/src/namecache/test_namecache_api_cache_block.c
+END
+test_plugin_namecache_postgres.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/30230/gnunet/src/namecache/test_plugin_namecache_postgres.conf
+END
+namecache.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31142/gnunet/src/namecache/namecache.conf.in
+END
+namecache_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/32353/gnunet/src/namecache/namecache_api.c
+END

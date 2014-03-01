@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/32358/gnunet/src/peerinfo
+END
+peerinfo.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31142/gnunet/src/peerinfo/peerinfo.conf.in
+END
+test_peerinfo_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/peerinfo/test_peerinfo_api.c
+END
+test_peerinfo_api_notify_friend_only.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/29905/gnunet/src/peerinfo/test_peerinfo_api_notify_friend_only.c
+END
+peerinfo_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31559/gnunet/src/peerinfo/peerinfo_api.c
+END
+gnunet-service-peerinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32358/gnunet/src/peerinfo/gnunet-service-peerinfo.c
+END
+test_peerinfo_api_friend_only.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/29905/gnunet/src/peerinfo/test_peerinfo_api_friend_only.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32149/gnunet/src/peerinfo/Makefile.am
+END
+peerinfo_api_notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31559/gnunet/src/peerinfo/peerinfo_api_notify.c
+END
+test_peerinfo_shipped_hellos.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/29905/gnunet/src/peerinfo/test_peerinfo_shipped_hellos.c
+END
+test_peerinfo_api_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/30043/gnunet/src/peerinfo/test_peerinfo_api_data.conf
+END
+peerinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26816/gnunet/src/peerinfo/peerinfo.h
+END
+perf_peerinfo_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/peerinfo/perf_peerinfo_api.c
+END

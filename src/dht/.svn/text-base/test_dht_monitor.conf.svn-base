@@ -1,0 +1,48 @@
+[fs]
+AUTOSTART = NO
+
+[resolver]
+AUTOSTART = NO
+
+[dhtcache]
+QUOTA = 1 MB
+DATABASE = heap
+
+[transport]
+PLUGINS = tcp
+
+[ats]
+WAN_QUOTA_IN = 1 GB
+WAN_QUOTA_OUT = 1 GB
+
+[arm]
+DEFAULTSERVICES = dht core
+
+[testbed]
+OVERLAY_TOPOLOGY = LINE
+
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-dht-monitor/
+
+[nat]
+DISABLEV6 = YES
+ENABLE_UPNP = NO
+BEHIND_NAT = NO
+ALLOW_NAT = NO
+INTERNAL_ADDRESS = 127.0.0.1
+EXTERNAL_ADDRESS = 127.0.0.1
+USE_LOCALADDR = YES
+RETURN_LOCAL_ADDRESSES = YES
+
+[dns]
+AUTOSTART = NO
+
+[namestore]
+AUTOSTART = NO
+
+[nse]
+AUTOSTART = NO
+
+[vpn]
+AUTOSTART=NO
+

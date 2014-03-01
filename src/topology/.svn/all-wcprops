@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/32359/gnunet/src/topology
+END
+test_gnunet_daemon_topology.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/29905/gnunet/src/topology/test_gnunet_daemon_topology.c
+END
+topology.conf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30043/gnunet/src/topology/topology.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32149/gnunet/src/topology/Makefile.am
+END
+friends.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/32359/gnunet/src/topology/friends.c
+END
+test_gnunet_daemon_topology_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/30043/gnunet/src/topology/test_gnunet_daemon_topology_data.conf
+END
+gnunet-daemon-topology.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32124/gnunet/src/topology/gnunet-daemon-topology.c
+END

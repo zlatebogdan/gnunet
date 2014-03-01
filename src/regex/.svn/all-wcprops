@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/32149/gnunet/src/regex
+END
+test_regex_api_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/30043/gnunet/src/regex/test_regex_api_data.conf
+END
+regex_test_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31559/gnunet/src/regex/regex_test_lib.c
+END
+test_regex_proofs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27501/gnunet/src/regex/test_regex_proofs.c
+END
+regex_internal_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30096/gnunet/src/regex/regex_internal_lib.h
+END
+test_regex_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/29905/gnunet/src/regex/test_regex_api.c
+END
+plugin_block_regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31664/gnunet/src/regex/plugin_block_regex.c
+END
+regex_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31620/gnunet/src/regex/regex_api.c
+END
+regex_test_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/29905/gnunet/src/regex/regex_test_lib.h
+END
+perf-regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29905/gnunet/src/regex/perf-regex.c
+END
+regex_internal_dht.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31559/gnunet/src/regex/regex_internal_dht.c
+END
+gnunet-service-regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30096/gnunet/src/regex/gnunet-service-regex.c
+END
+regex_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31559/gnunet/src/regex/regex_internal.c
+END
+test_regex_eval_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27501/gnunet/src/regex/test_regex_eval_api.c
+END
+regex_test_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27501/gnunet/src/regex/regex_test_random.c
+END
+regex_ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/29905/gnunet/src/regex/regex_ipc.h
+END
+gnunet-regex-simulation-profiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/31559/gnunet/src/regex/gnunet-regex-simulation-profiler.c
+END
+regex_block_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31664/gnunet/src/regex/regex_block_lib.c
+END
+regex_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27501/gnunet/src/regex/regex_internal.h
+END
+gnunet-daemon-regexprofiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30096/gnunet/src/regex/gnunet-daemon-regexprofiler.c
+END
+regex_block_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/29905/gnunet/src/regex/regex_block_lib.h
+END
+test_regex_iterate_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/29905/gnunet/src/regex/test_regex_iterate_api.c
+END
+regex_simulation_profiler_test.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24997/gnunet/src/regex/regex_simulation_profiler_test.conf
+END
+regex.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31142/gnunet/src/regex/regex.conf.in
+END
+test_regex_graph_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27501/gnunet/src/regex/test_regex_graph_api.c
+END
+perf-data.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/25507/gnunet/src/regex/perf-data.tar.gz
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/32149/gnunet/src/regex/Makefile.am
+END
+gnunet-regex-profiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/29905/gnunet/src/regex/gnunet-regex-profiler.c
+END
+regex_test_graph.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27501/gnunet/src/regex/regex_test_graph.c
+END

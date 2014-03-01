@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/32279/gnunet/src/set
+END
+gnunet-service-set_union.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31240/gnunet/src/set/gnunet-service-set_union.c
+END
+ibf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/31559/gnunet/src/set/ibf.c
+END
+test_set_intersection_result_full.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/32030/gnunet/src/set/test_set_intersection_result_full.c
+END
+set.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/30463/gnunet/src/set/set.h
+END
+set.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31663/gnunet/src/set/set.conf.in
+END
+ibf.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/30511/gnunet/src/set/ibf.h
+END
+gnunet-set-ibf-profiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/29905/gnunet/src/set/gnunet-set-ibf-profiler.c
+END
+gnunet-set-profiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29905/gnunet/src/set/gnunet-set-profiler.c
+END
+gnunet-service-set_intersection.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32031/gnunet/src/set/gnunet-service-set_intersection.c
+END
+set_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31740/gnunet/src/set/set_protocol.h
+END
+test_set_union_result_full.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31240/gnunet/src/set/test_set_union_result_full.c
+END
+test_set_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/32268/gnunet/src/set/test_set_api.c
+END
+set_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/32268/gnunet/src/set/set_api.c
+END
+strata_estimator.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31559/gnunet/src/set/strata_estimator.c
+END
+gnunet-service-set.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32279/gnunet/src/set/gnunet-service-set.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32149/gnunet/src/set/Makefile.am
+END
+strata_estimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30511/gnunet/src/set/strata_estimator.h
+END
+gnunet-service-set.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/31240/gnunet/src/set/gnunet-service-set.h
+END
+test_set.conf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/30511/gnunet/src/set/test_set.conf
+END

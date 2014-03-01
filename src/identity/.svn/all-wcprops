@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/32149/gnunet/src/identity
+END
+identity.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/30745/gnunet/src/identity/identity.h
+END
+test_identity_defaults.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30641/gnunet/src/identity/test_identity_defaults.c
+END
+identity.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31297/gnunet/src/identity/identity.conf.in
+END
+identity_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30745/gnunet/src/identity/identity_api.c
+END
+gnunet-service-identity.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/30691/gnunet/src/identity/gnunet-service-identity.c
+END
+gnunet-identity.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30096/gnunet/src/identity/gnunet-identity.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32149/gnunet/src/identity/Makefile.am
+END
+test_identity.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30538/gnunet/src/identity/test_identity.c
+END
+identity_api_lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/29905/gnunet/src/identity/identity_api_lookup.c
+END
+test_identity.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30044/gnunet/src/identity/test_identity.conf
+END

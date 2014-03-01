@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/32232/gnunet/src/hello
+END
+gnunet-hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/30096/gnunet/src/hello/gnunet-hello.c
+END
+test_hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/30096/gnunet/src/hello/test_hello.c
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/32232/gnunet/src/hello/hello.c
+END
+address.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31928/gnunet/src/hello/address.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/32149/gnunet/src/hello/Makefile.am
+END
+test_friend_hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30096/gnunet/src/hello/test_friend_hello.c
+END

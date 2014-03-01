@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 258
+perf_kdf
+nse_stats_4000_peers
+nse.conf
+nse_topo_4000_peers_stats
+nse_topo_4000_peers_initial
+nse_topo_1000_peers_initial
+nse_output_4000_peers.dat
+test_nse_multipeer
+test_nse_api
+nse-profiler
+Makefile.in
+Makefile
+gnunet-service-nse
+gnunet-nse-profiler
+.deps
+
+END

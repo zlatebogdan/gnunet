@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/32149/gnunet/src/revocation
+END
+revocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30096/gnunet/src/revocation/revocation.h
+END
+revocation.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31142/gnunet/src/revocation/revocation.conf.in
+END
+revocation_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30096/gnunet/src/revocation/revocation_api.c
+END
+gnunet-service-revocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/30905/gnunet/src/revocation/gnunet-service-revocation.c
+END
+gnunet-revocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31744/gnunet/src/revocation/gnunet-revocation.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32149/gnunet/src/revocation/Makefile.am
+END
+test_revocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30905/gnunet/src/revocation/test_revocation.c
+END
+test_revocation.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32130/gnunet/src/revocation/test_revocation.conf
+END
+test_local_revocation.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31030/gnunet/src/revocation/test_local_revocation.py.in
+END

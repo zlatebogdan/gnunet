@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 374
+test_peerinfo_shipped_hellos
+test_peerinfo_api_notify_friend_only
+test_peerinfo_api_friend_only
+peerinfo.conf
+perf_peerinfo_api
+peerinfo_api.gcno
+peerinfo_api.gcda
+test_peerinfo_api.gcda
+gnunet-service-peerinfo.gcda
+test_peerinfo_api.gcno
+test_peerinfo_api
+Makefile.in
+Makefile
+gnunet-service-peerinfo.gcno
+gnunet-service-peerinfo
+gnunet-peerinfo.gcno
+gnunet-peerinfo
+.deps
+
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32244/gnunet/src/ats-tests/experiments
+END
+evaluation1_dru_3_peers_1addr_1scope_ril.conf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32244/gnunet/src/ats-tests/experiments/evaluation1_dru_3_peers_1addr_1scope_ril.conf
+END
+evaluation1_dru_3_peers_1addr_1scope_prop.exp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32244/gnunet/src/ats-tests/experiments/evaluation1_dru_3_peers_1addr_1scope_prop.exp
+END
+evaluation1_dru_3_peers_1addr_1scope_mlp.conf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32244/gnunet/src/ats-tests/experiments/evaluation1_dru_3_peers_1addr_1scope_mlp.conf
+END
+evaluation1_dru_3_peers_1addr_1scope_ril.exp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32244/gnunet/src/ats-tests/experiments/evaluation1_dru_3_peers_1addr_1scope_ril.exp
+END
+send_linear_10_sec.exp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/32159/gnunet/src/ats-tests/experiments/send_linear_10_sec.exp
+END
+evaluation1_dru_3_peers_1addr_1scope_mlp.exp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32244/gnunet/src/ats-tests/experiments/evaluation1_dru_3_peers_1addr_1scope_mlp.exp
+END
+test.exp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32177/gnunet/src/ats-tests/experiments/test.exp
+END
+evaluation1_dru_3_peers_1addr_1scope_prop.conf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/32244/gnunet/src/ats-tests/experiments/evaluation1_dru_3_peers_1addr_1scope_prop.conf
+END

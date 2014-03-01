@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 36
+test_env
+Makefile.in
+Makefile
+.deps
+
+END

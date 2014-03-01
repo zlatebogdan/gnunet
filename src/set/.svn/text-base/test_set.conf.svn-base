@@ -1,0 +1,27 @@
+# @INLINE@ test_set_defaults.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-gnunet-set/
+
+[set]
+AUTOSTART = YES
+PORT = 2106
+HOSTNAME = localhost
+BINARY = gnunet-service-set
+#PREFIX = valgrind
+#PREFIX = valgrind -v --leak-check=full 
+#PREFIX = gdbserver :1234
+ACCEPT_FROM = 127.0.0.1;
+ACCEPT_FROM6 = ::1;
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-set.sock
+UNIX_MATCH_UID = YES
+UNIX_MATCH_GID = YES
+OPTIONS = -L INFO
+
+
+[transport]
+OPTIONS = -LERROR
+
+
+[testbed]
+OVERLAY_TOPOLOGY = CLIQUE
+

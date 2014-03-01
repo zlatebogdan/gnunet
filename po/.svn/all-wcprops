@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/32174/gnunet/po
+END
+Rules-quot
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8472/gnunet/po/Rules-quot
+END
+insert-header.sin
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8472/gnunet/po/insert-header.sin
+END
+Makevars.template
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8472/gnunet/po/Makevars.template
+END
+es.po
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/32174/gnunet/po/es.po
+END
+remove-potcdate.sin
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8472/gnunet/po/remove-potcdate.sin
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8472/gnunet/po/ChangeLog
+END
+Makefile.in.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28682/gnunet/po/Makefile.in.in
+END
+POTFILES.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/32174/gnunet/po/POTFILES.in
+END
+vi.po
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/32174/gnunet/po/vi.po
+END
+update.pl
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8472/gnunet/po/update.pl
+END
+stamp-po
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/8472/gnunet/po/stamp-po
+END
+quot.sed
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/8472/gnunet/po/quot.sed
+END
+en@quot.header
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8472/gnunet/po/en@quot.header
+END
+LINGUAS
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/15991/gnunet/po/LINGUAS
+END
+boldquot.sed
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8472/gnunet/po/boldquot.sed
+END
+en@boldquot.header
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8472/gnunet/po/en@boldquot.header
+END
+sv.po
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/32174/gnunet/po/sv.po
+END
+de.po
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/32174/gnunet/po/de.po
+END
+Makevars
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/28681/gnunet/po/Makevars
+END
+zh_CN.po
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/32174/gnunet/po/zh_CN.po
+END

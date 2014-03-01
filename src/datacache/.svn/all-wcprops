@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/32149/gnunet/src/datacache
+END
+datacache.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/24973/gnunet/src/datacache/datacache.conf
+END
+plugin_datacache_postgres.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/31559/gnunet/src/datacache/plugin_datacache_postgres.c
+END
+perf_datacache_data_heap.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24938/gnunet/src/datacache/perf_datacache_data_heap.conf
+END
+test_datacache_quota.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28501/gnunet/src/datacache/test_datacache_quota.c
+END
+plugin_datacache_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/31559/gnunet/src/datacache/plugin_datacache_template.c
+END
+plugin_datacache_heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/31559/gnunet/src/datacache/plugin_datacache_heap.c
+END
+test_datacache_data_sqlite.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17972/gnunet/src/datacache/test_datacache_data_sqlite.conf
+END
+perf_datacache.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/29905/gnunet/src/datacache/perf_datacache.c
+END
+test_datacache_data_postgres.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17972/gnunet/src/datacache/test_datacache_data_postgres.conf
+END
+test_datacache_data_heap.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24938/gnunet/src/datacache/test_datacache_data_heap.conf
+END
+perf_datacache_data_sqlite.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17972/gnunet/src/datacache/perf_datacache_data_sqlite.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32149/gnunet/src/datacache/Makefile.am
+END
+perf_datacache_data_postgres.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17972/gnunet/src/datacache/perf_datacache_data_postgres.conf
+END
+test_datacache.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/29905/gnunet/src/datacache/test_datacache.c
+END
+plugin_datacache_sqlite.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31559/gnunet/src/datacache/plugin_datacache_sqlite.c
+END
+datacache.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31559/gnunet/src/datacache/datacache.c
+END

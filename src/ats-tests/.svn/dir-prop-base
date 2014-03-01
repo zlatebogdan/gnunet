@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 353
+gnunet-ats-sim
+perf_ats_proportional_transport_none
+perf_ats_proportional_transport_latency
+perf_ats_proportional_transport_bandwidth
+perf_ats_proportional_core_none
+perf_ats_proportional_core_latency
+perf_ats_proportional_core_bandwidth
+perf_ats_ril_latency
+perf_ats_ril_bandwidth
+perf_ats_mlp_latency
+perf_ats_mlp_bandwidth
+Makefile.in
+Makefile
+.deps
+
+END

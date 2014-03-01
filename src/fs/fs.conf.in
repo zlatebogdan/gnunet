@@ -1,0 +1,66 @@
+[fs]
+AUTOSTART = @AUTOSTART@
+INDEXDB = $GNUNET_DATA_HOME/fs/idxinfo.lst
+RESPECT = $GNUNET_DATA_HOME/fs/credit/
+STATE_DIR = $GNUNET_DATA_HOME/fs/persistence/
+UPDATE_DIR = $GNUNET_DATA_HOME/fs/updates/
+@UNIXONLY@ PORT = 2094
+HOSTNAME = localhost
+BINARY = gnunet-service-fs
+ACCEPT_FROM = 127.0.0.1;
+ACCEPT_FROM6 = ::1;
+
+# Do we introduce artificial delays? (may improve anonymity)
+DELAY = YES
+
+# Do we cache content from other nodes? (may improve anonymity)
+CONTENT_CACHING = YES
+
+# Do we send unsolicited data to other nodes if we have excess bandwidth?
+# (may improve anonymity, probably not a good idea if content_caching is NO)
+CONTENT_PUSHING = YES
+
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-fs.sock
+
+# Do we require users that want to access file-sharing to run this process
+# (usually not a good idea)
+UNIX_MATCH_UID = NO
+
+# Do we require users that want to access file-sharing to be in the 'gnunet' group?
+UNIX_MATCH_GID = YES
+
+# Maximum number of requests this peer tracks (important for
+# memory consumption; 2k RAM/request is not unusual)
+MAX_PENDING_REQUESTS = 65536
+
+# How many requests do we have at most waiting in the queue towards
+# the datastore? (important for memory consumption)
+DATASTORE_QUEUE_SIZE = 1024
+
+# Maximum frequency we're allowed to poll the datastore
+# for content for migration (can be used to reduce
+# GNUnet's disk-IO rate)
+MIN_MIGRATION_DELAY = 100 ms
+
+# For how many neighbouring peers should we allocate hash maps?
+EXPECTED_NEIGHBOUR_COUNT = 128
+
+# Disable anonymous file-sharing (but keep non-anonymous transfers)?
+# This option is mostly for testing.
+DISABLE_ANON_TRANSFER = NO
+
+# Maximum number of non-anonymous transfers this peer will support
+# at the same time.  Excessive values mostly have the problem that
+# the service might use more memory, so we need to bound this at
+# some reasonable level.  And if we have a very, very large
+# number, we probably won't have enough bandwidth to suppor them
+# well anyway, so better have a moderate cap.
+MAX_MESH_CLIENTS = 128
+
+
+[gnunet-auto-share]
+BINARY = gnunet-auto-share
+
+# Note: MUST specify path to auto-share directory and CAN specify other options
+# to gnunet-auto-share here!
+OPTIONS = $GNUNET_DATA_HOME/fs/share/

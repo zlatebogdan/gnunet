@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/32149/gnunet/src/psycstore
+END
+psycstore.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30119/gnunet/src/psycstore/psycstore.h
+END
+psycstore.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31180/gnunet/src/psycstore/psycstore.conf.in
+END
+psycstore_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30653/gnunet/src/psycstore/psycstore_api.c
+END
+gnunet-service-psycstore.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/30119/gnunet/src/psycstore/gnunet-service-psycstore.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32149/gnunet/src/psycstore/Makefile.am
+END
+test_plugin_psycstore.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30131/gnunet/src/psycstore/test_plugin_psycstore.c
+END
+plugin_psycstore_sqlite.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30096/gnunet/src/psycstore/plugin_psycstore_sqlite.c
+END
+test_psycstore.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30131/gnunet/src/psycstore/test_psycstore.c
+END
+test_plugin_psycstore_sqlite.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28974/gnunet/src/psycstore/test_plugin_psycstore_sqlite.conf
+END
+test_psycstore.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30651/gnunet/src/psycstore/test_psycstore.conf
+END

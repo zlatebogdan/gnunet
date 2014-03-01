@@ -1,0 +1,35 @@
+[dht]
+AUTOSTART = @AUTOSTART@
+@JAVAPORT@PORT = 2095
+HOSTNAME = localhost
+BINARY = gnunet-service-dht
+ACCEPT_FROM = 127.0.0.1;
+ACCEPT_FROM6 = ::1;
+BUCKET_SIZE = 4
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-dht.sock
+# This could be relaxed...
+UNIX_MATCH_UID = YES
+UNIX_MATCH_GID = YES
+# DISABLE_SOCKET_FORWARDING = NO
+# USERNAME =
+# MAXBUF =
+# TIMEOUT =
+# DISABLEV6 =
+# BINDTO =
+# REJECT_FROM =
+# REJECT_FROM6 =
+# PREFIX =
+
+# Should the DHT cache results that we are routing in the DATACACHE as well?
+CACHE_RESULTS = YES
+
+# Special option to disable DHT calling 'try_connect' (for testing)
+DISABLE_TRY_CONNECT = NO
+
+
+[dhtcache]
+DATABASE = heap
+QUOTA = 50 MB
+
+# Disable RC-file for Bloom filter?  (for benchmarking with limited IO availability)
+DISABLE_BF_RC = NO

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/31880/gnunet/src/exit
+END
+exit.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/29905/gnunet/src/exit/exit.h
+END
+install-exit-helper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23025/gnunet/src/exit/install-exit-helper.sh
+END
+gnunet-helper-exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29905/gnunet/src/exit/gnunet-helper-exit.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/29454/gnunet/src/exit/Makefile.am
+END
+gnunet-daemon-exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31657/gnunet/src/exit/gnunet-daemon-exit.c
+END
+exit.conf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31880/gnunet/src/exit/exit.conf
+END
+gnunet-helper-exit-windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/29961/gnunet/src/exit/gnunet-helper-exit-windows.c
+END

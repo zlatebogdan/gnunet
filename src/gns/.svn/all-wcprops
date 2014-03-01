@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/32441/gnunet/src/gns
+END
+test_gnunet_gns.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31184/gnunet/src/gns/test_gnunet_gns.sh
+END
+w32nsp-install.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31395/gnunet/src/gns/w32nsp-install.c
+END
+gnunet-gns-proxy-setup-ca
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30198/gnunet/src/gns/gnunet-gns-proxy-setup-ca
+END
+w32resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31576/gnunet/src/gns/w32resolver.h
+END
+test_gns_delegated_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_delegated_lookup.sh
+END
+test_gns_txt_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_txt_lookup.sh
+END
+gnunet_w32nsp_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/29905/gnunet/src/gns/gnunet_w32nsp_lib.h
+END
+test_gns_revocation.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_revocation.sh
+END
+test_gns_soa_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_soa_lookup.sh
+END
+test_gns_zkey_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_zkey_lookup.sh
+END
+w32nsp-resolve.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31740/gnunet/src/gns/w32nsp-resolve.c
+END
+test_gns_plus_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_plus_lookup.sh
+END
+test_gns_cname_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/32118/gnunet/src/gns/test_gns_cname_lookup.sh
+END
+test_gns_ipv6_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/32350/gnunet/src/gns/test_gns_ipv6_lookup.sh
+END
+plugin_gnsrecord_gns.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30665/gnunet/src/gns/plugin_gnsrecord_gns.c
+END
+gnunet-dns2gns.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31559/gnunet/src/gns/gnunet-dns2gns.c
+END
+test_gns_quickupdate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_quickupdate.sh
+END
+gns-helper-service-w32.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/24237/gnunet/src/gns/gns-helper-service-w32.conf
+END
+plugin_block_gns.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30233/gnunet/src/gns/plugin_block_gns.c
+END
+test_gns_defaults.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30941/gnunet/src/gns/test_gns_defaults.conf
+END
+gns_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/32360/gnunet/src/gns/gns_api.c
+END
+test_gns_rel_expiration.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_rel_expiration.sh
+END
+gnunet-service-gns.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/31624/gnunet/src/gns/gnunet-service-gns.c
+END
+test_gns_nick_shorten.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_nick_shorten.sh
+END
+gnunet-gns.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/32357/gnunet/src/gns/gnunet-gns.c
+END
+gnunet-bcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31214/gnunet/src/gns/gnunet-bcd.c
+END
+test_gns_proxy.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30044/gnunet/src/gns/test_gns_proxy.conf
+END
+gns.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/31961/gnunet/src/gns/gns.h
+END
+gns.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32176/gnunet/src/gns/gns.conf.in
+END
+test_gns_nick_shorten.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31042/gnunet/src/gns/test_gns_nick_shorten.conf
+END
+gnunet-service-gns_interceptor.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/30233/gnunet/src/gns/gnunet-service-gns_interceptor.c
+END
+w32nsp-uninstall.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31395/gnunet/src/gns/w32nsp-uninstall.c
+END
+gnunet-gns-proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32212/gnunet/src/gns/gnunet-gns-proxy.c
+END
+gnunet-service-gns_resolver.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32354/gnunet/src/gns/gnunet-service-gns_resolver.c
+END
+test_gns_gns2dns_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_gns2dns_lookup.sh
+END
+test_gns_dht_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_dht_lookup.sh
+END
+gnunet-service-gns_interceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/30096/gnunet/src/gns/gnunet-service-gns_interceptor.h
+END
+test_gns_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_lookup.sh
+END
+w32nsp.def
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31577/gnunet/src/gns/w32nsp.def
+END
+gnunet-service-gns_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30355/gnunet/src/gns/gnunet-service-gns_resolver.h
+END
+gnunet-gns-helper-service-w32.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31585/gnunet/src/gns/gnunet-gns-helper-service-w32.c
+END
+test_gns_mx_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31725/gnunet/src/gns/test_gns_mx_lookup.sh
+END
+test_gns_lookup.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30941/gnunet/src/gns/test_gns_lookup.conf
+END
+gnunet-service-gns_shorten.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30952/gnunet/src/gns/gnunet-service-gns_shorten.c
+END
+test_gns_proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32441/gnunet/src/gns/test_gns_proxy.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32149/gnunet/src/gns/Makefile.am
+END
+gnunet-service-gns_shorten.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30672/gnunet/src/gns/gnunet-service-gns_shorten.h
+END
+test_gns_simple_lookup.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30044/gnunet/src/gns/test_gns_simple_lookup.conf
+END
+w32nsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/31587/gnunet/src/gns/w32nsp.c
+END
+gnunet-gns-import.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/32441/gnunet/src/gns/gnunet-gns-import.c
+END

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 78
+gnunet-daemon-experimentation
+Makefile.in
+Makefile
+experimentation.conf
+.deps
+
+END

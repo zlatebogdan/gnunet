@@ -1,0 +1,34 @@
+[dns]
+AUTOSTART = @AUTOSTART@
+HOSTNAME = localhost
+BINARY = gnunet-service-dns
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-dns.sock
+
+# Access to this service can compromise all DNS queries in this
+# system.  Thus access should be restricted to the same UID.
+# (see https://gnunet.org/gnunet-access-control-model)
+UNIX_MATCH_UID = YES
+UNIX_MATCH_GID = YES
+
+# As there is no sufficiently restrictive access control for TCP, 
+# we never use it, even if @UNIXONLY@ is not set (just to be safe)
+@UNIXONLY@ PORT = 0
+
+# Name of the virtual interface we use to intercept DNS traffic.
+IFNAME = gnunet-dns
+
+# Use RFC 3849-style documentation IPv6 address (RFC 4773 might provide an alternative in the future)
+# FIXME: or just default to a site-local address scope as we do for VPN!?
+IPV6ADDR = 2001:DB8::1
+IPV6PREFIX = 126
+
+# Use RFC 3927-style link-local address
+IPV4ADDR = 169.254.1.1
+IPV4MASK = 255.255.0.0
+
+# Enable GNUnet-wide DNS-EXIT service by setting this value to the IP address (IPv4 or IPv6)
+# of a DNS resolver to use.  Only works if "PROVIDE_EXIT" is also set to YES.  Must absolutely
+# NOT be an address of any of GNUnet's virtual tunnel interfaces.  Use a well-known
+# public DNS resolver or your ISP's resolver from /etc/resolv.conf.
+DNS_EXIT = 8.8.8.8
+

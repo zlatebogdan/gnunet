@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/32151/gnunet/src/datastore
+END
+datastore.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31142/gnunet/src/datastore/datastore.conf.in
+END
+plugin_datastore_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/31559/gnunet/src/datastore/plugin_datastore_template.c
+END
+test_datastore_api_data_mysql.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/30043/gnunet/src/datastore/test_datastore_api_data_mysql.conf
+END
+test_datastore_api_data_postgres.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/30043/gnunet/src/datastore/test_datastore_api_data_postgres.conf
+END
+plugin_datastore_heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/31559/gnunet/src/datastore/plugin_datastore_heap.c
+END
+perf_plugin_datastore_data_mysql.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/30043/gnunet/src/datastore/perf_plugin_datastore_data_mysql.conf
+END
+perf_plugin_datastore_data_postgres.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/30043/gnunet/src/datastore/perf_plugin_datastore_data_postgres.conf
+END
+test_plugin_datastore.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/31559/gnunet/src/datastore/test_plugin_datastore.c
+END
+test_datastore_api_data_heap.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/30043/gnunet/src/datastore/test_datastore_api_data_heap.conf
+END
+test_defaults.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/25496/gnunet/src/datastore/test_defaults.conf
+END
+perf_plugin_datastore_data_heap.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/30043/gnunet/src/datastore/perf_plugin_datastore_data_heap.conf
+END
+test_datastore_api_management.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31559/gnunet/src/datastore/test_datastore_api_management.c
+END
+test_datastore_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31559/gnunet/src/datastore/test_datastore_api.c
+END
+datastore_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30792/gnunet/src/datastore/datastore_api.c
+END
+perf_plugin_datastore.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/31559/gnunet/src/datastore/perf_plugin_datastore.c
+END
+test_plugin_datastore_data_sqlite.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/30043/gnunet/src/datastore/test_plugin_datastore_data_sqlite.conf
+END
+gnunet-service-datastore.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31559/gnunet/src/datastore/gnunet-service-datastore.c
+END
+gnunet-datastore.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/datastore/gnunet-datastore.c
+END
+test_plugin_datastore_data_mysql.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/30043/gnunet/src/datastore/test_plugin_datastore_data_mysql.conf
+END
+plugin_datastore_sqlite.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32151/gnunet/src/datastore/plugin_datastore_sqlite.c
+END
+test_plugin_datastore_data_postgres.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/30043/gnunet/src/datastore/test_plugin_datastore_data_postgres.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32149/gnunet/src/datastore/Makefile.am
+END
+plugin_datastore_mysql.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31559/gnunet/src/datastore/plugin_datastore_mysql.c
+END
+plugin_datastore_postgres.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/31559/gnunet/src/datastore/plugin_datastore_postgres.c
+END
+test_datastore_api_data_sqlite.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/30043/gnunet/src/datastore/test_datastore_api_data_sqlite.conf
+END
+datastore.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28836/gnunet/src/datastore/datastore.h
+END
+perf_datastore_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31559/gnunet/src/datastore/perf_datastore_api.c
+END
+test_plugin_datastore_data_heap.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/30043/gnunet/src/datastore/test_plugin_datastore_data_heap.conf
+END
+perf_plugin_datastore_data_sqlite.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/30043/gnunet/src/datastore/perf_plugin_datastore_data_sqlite.conf
+END
+selectrandom.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15172/gnunet/src/datastore/selectrandom.sql
+END

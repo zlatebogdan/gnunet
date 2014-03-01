@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 149
+test_gnunet_vpn-6_to_4
+test_gnunet_vpn-6_over
+test_gnunet_vpn-4_to_6
+test_gnunet_vpn-4_over
+test_gns_vpn
+gnunet-daemon-pt
+Makefile.in
+Makefile
+.deps
+
+END

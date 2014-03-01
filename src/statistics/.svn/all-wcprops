@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/32441/gnunet/src/statistics
+END
+test_statistics_api_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/31986/gnunet/src/statistics/test_statistics_api_data.conf
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28836/gnunet/src/statistics/statistics.h
+END
+statistics.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31142/gnunet/src/statistics/statistics.conf.in
+END
+test_statistics_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32441/gnunet/src/statistics/test_statistics_api.c
+END
+statistics_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31588/gnunet/src/statistics/statistics_api.c
+END
+test_statistics_api_watch_zero_value.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/32441/gnunet/src/statistics/test_statistics_api_watch_zero_value.c
+END
+test_gnunet_statistics.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/32307/gnunet/src/statistics/test_gnunet_statistics.py.in
+END
+gnunet-service-statistics.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/30039/gnunet/src/statistics/gnunet-service-statistics.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32149/gnunet/src/statistics/Makefile.am
+END
+gnunet-statistics.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/29905/gnunet/src/statistics/gnunet-statistics.c
+END
+test_statistics_api_watch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/32441/gnunet/src/statistics/test_statistics_api_watch.c
+END
+test_statistics_api_loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32441/gnunet/src/statistics/test_statistics_api_loop.c
+END

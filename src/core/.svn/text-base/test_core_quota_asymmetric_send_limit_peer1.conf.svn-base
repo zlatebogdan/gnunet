@@ -1,0 +1,52 @@
+@INLINE@ test_core_defaults.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-gnunet-core-quota-asym-send-lim-peer-1/
+
+[transport-tcp]
+PORT = 12488
+
+[transport-udp]
+PORT = 12492
+
+[arm]
+PORT = 12486
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-send-p1-service-arm.sock
+
+[statistics]
+PORT = 12487
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-send-p1-service-statistics.sock
+
+[resolver]
+PORT = 12484
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-send-1-service-resolver.sock
+
+[peerinfo]
+PORT = 12489
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-send-p1-service-peerinfo.sock
+
+[transport]
+PORT = 12485
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-send-p1-service-transport.sock
+
+[ats]
+PORT = 12491
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-send-p1-service-ats.sock
+# UNSPECIFIED
+UNSPECIFIED_QUOTA_IN = 10240
+UNSPECIFIED_QUOTA_OUT = 10240
+# LOOPBACK
+LOOPBACK_QUOTA_IN = 10240
+LOOPBACK_QUOTA_OUT = 10240
+# LAN
+LAN_QUOTA_IN = 10240
+LAN_QUOTA_OUT = 10240
+# WAN
+WAN_QUOTA_IN = 10240
+WAN_QUOTA_OUT = 10240
+# WLAN
+WLAN_QUOTA_IN = 10240
+WLAN_QUOTA_OUT = 10240
+
+[core]
+PORT = 12490
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-asym-send-p1-service-core.sock

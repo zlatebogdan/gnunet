@@ -1,0 +1,64 @@
+.TH GNUNET\-ATS 1 "Oct 31, 2012" "GNUnet"
+
+.SH NAME
+gnunet\-ats \- display information about transport resource allocation
+
+.SH SYNOPSIS
+.B gnunet\-ats
+.RI [ options ]
+.br
+
+.SH DESCRIPTION
+\fBgnunet\-ats\fP can be used to display information about the GNUnet's
+transport selection mechanism. It shows information about the
+addresses and the assigned input and output bandwidth.
+
+.SH OPTIONS
+.B
+.IP "\-a,  \-\-aa"
+List all addresses currently known to ats.
+.B
+.IP "\-c FILENAME,  \-\-config=FILENAME"
+Use the configuration file FILENAME.
+.B
+.IP "\-h, \-\-help"
+Print short help on options.
+.B
+.IP "\-i, \-\-id=PEERID"
+Print information for a specific peer identity only
+.B
+.IP "\-k, \-\-value=VALUE"
+Value to set for when changing preference values
+.B
+.IP "\-L LOGLEVEL, \-\-loglevel=LOGLEVEL"
+Use LOGLEVEL for logging.  Valid values are DEBUG, INFO, WARNING and ERROR.
+.B
+.IP "\-m, \-\-monitor"
+Monitor changes to the bandwidth assignments continuously
+.B
+.IP "\-n, \-\-numeric"
+Do not resolve IP addresses to hostnames
+.B
+.IP "\-k, \-\-preference=E"
+Set preference values, \-i, \-k and \-t required
+.B
+.IP "\-q, \-\-quotas"
+Print quotas for all network types
+.B
+.IP "\-t, \-\-type=VALUE"
+Preference type to change: latency | bandwidth
+.B
+.IP "\-u, \-\-used"
+Print addresses actively used only
+.B
+.IP "\-V, \-\-verbose"
+Print verbose output (include ATS address properties)
+.B
+.IP "\-v, \-\-version"
+Print GNUnet version number.
+
+.SH BUGS
+Report bugs by using Mantis <https://gnunet.org/bugs/> or by sending electronic mail to <bug\-gnunet@gnu.org>
+
+.SH SEE ALSO
+gnunet\-transport(1)

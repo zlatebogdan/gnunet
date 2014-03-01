@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 99
+vi.gmo
+sv.gmo
+gnunet.pot
+es.gmo
+de.gmo
+zh_CN.gmo
+remove-potcdate.sed
+POTFILES
+Makefile.in
+Makefile
+
+END

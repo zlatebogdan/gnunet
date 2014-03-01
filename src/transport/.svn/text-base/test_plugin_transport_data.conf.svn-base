@@ -1,0 +1,53 @@
+@INLINE@ test_transport_defaults.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-gnunetd-plugin-transport/
+
+[transport-tcp]
+PORT = 2400
+
+[transport-udp]
+PORT = 2401
+
+[transport-unix]
+
+[transport-wlan]
+INTERFACE = mon0
+TESTMODE = 1
+
+[transport-bluetooth]
+INTERFACE = hci0
+TESTMODE = 1
+
+[transport-http_client]
+
+[transport-http_server]
+PORT = 2402
+
+[transport-https_client]
+
+[transport-https_server]
+PORT = 2403
+
+[arm]
+PORT = 2360
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-arm.sock
+
+[statistics]
+PORT = 2361
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-statistics.sock
+
+[resolver]
+PORT = 2362
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-resolver.sock
+
+[peerinfo]
+PORT = 2363
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-peerinfo.sock
+
+[transport]
+PORT = 2364
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-transport.sock
+
+[nat]
+RETURN_LOCAL_ADDRESSES = YES
+DISABLEV6 = NO

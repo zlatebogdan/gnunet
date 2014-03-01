@@ -1,0 +1,6 @@
+# General settings
+[fs]
+
+[TESTING]
+WEAKRANDOM = YES
+

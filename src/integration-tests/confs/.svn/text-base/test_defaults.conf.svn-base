@@ -1,0 +1,119 @@
+[arm]
+DEFAULTSERVICES = topology hostlist fs
+
+[peerinfo]
+USE_INCLUDED_HELLOS = NO
+
+[transport-tcp]
+USE_LOCALADDR = YES
+
+[transport-udp]
+BROADCAST = NO
+BROADCAST_RECEIVE = no
+USE_LOCALADDR = YES
+
+[nat]
+BEHIND_NAT = NO
+EXTERNAL_ADDRESS = 127.0.0.1
+INTERNAL_ADDRESS = 127.0.0.1
+BINDTO = 127.0.0.1
+RETURN_LOCAL_ADDRESSES = YES
+
+[hostlist]
+SERVERS =
+
+[dns]
+UNIXPATH = $GNUNET_RUNTIME_DIR/test-service-dns-47
+PORT = 0
+ACCEPT_FROM = 127.0.0.1;
+ACCEPT_FROM6 = ::1;
+PROVIDE_EXIT = NO
+
+[ats]
+WAN_QUOTA_IN = unlimited
+WAN_QUOTA_OUT = unlimited
+ATS_MIN_INTERVAL = 15000
+ATS_EXEC_INTERVAL = 30000
+
+[datastore]
+UNIX_MATCH_UID = YES
+QUOTA = 100 MB
+BLOOMFILTER = $GNUNET_TEST_HOME/fs/bloomfilter
+
+[dhtcache]
+DATABASE = sqlite
+QUOTA = 1 MB
+
+[TESTING]
+WEAKRANDOM = NO
+
+[fs]
+INDEXDB = $GNUNET_TEST_HOME/idxinfo.lst
+IDENTITY_DIR = $GNUNET_TEST_HOME/identities/
+STATE_DIR = $GNUNET_TEST_HOME/persistence/
+UPDATE_DIR = $GNUNET_TEST_HOME/updates/
+TRUST = $GNUNET_TEST_HOME/data/credit/
+
+[mesh]
+AUTOSTART = NO
+
+[consensus]
+AUTOSTART = NO
+
+[lockmanager]
+AUTOSTART = NO
+
+[namestore]
+AUTOSTART = NO
+
+[vpn]
+AUTOSTART = NO
+
+[template]
+AUTOSTART = NO
+
+[nse]
+AUTOSTART = NO
+WORKBITS = 1
+
+[gns]
+AUTOSTART = NO
+
+[regex]
+AUTOSTART = NO
+
+[revocation]
+AUTOSTART = NO
+
+[namecache]
+AUTOSTART = NO
+
+[identity]
+AUTOSTART = NO
+
+[conversation]
+AUTOSTART = NO
+
+[psycstore]
+AUTOSTART = NO
+
+[multicast]
+AUTOSTART = NO
+
+[psyc]
+AUTOSTART = NO
+
+[set]
+AUTOSTART = NO
+
+[dv]
+AUTOSTART = NO
+
+[gns]
+AUTOSTART = NO
+
+[datacache-mysql]
+DATABASE = gnunet
+CONFIG = ~/.my.cnf
+
+

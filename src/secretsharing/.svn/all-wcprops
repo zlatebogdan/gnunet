@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/32378/gnunet/src/secretsharing
+END
+gnunet-secretsharing-profiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/32269/gnunet/src/secretsharing/gnunet-secretsharing-profiler.c
+END
+test_secretsharing.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32284/gnunet/src/secretsharing/test_secretsharing.conf
+END
+secretsharing.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32284/gnunet/src/secretsharing/secretsharing.h
+END
+secretsharing_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31975/gnunet/src/secretsharing/secretsharing_protocol.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/32149/gnunet/src/secretsharing/Makefile.am
+END
+secretsharing.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30512/gnunet/src/secretsharing/secretsharing.conf.in
+END
+secretsharing_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32378/gnunet/src/secretsharing/secretsharing_common.c
+END
+test_secretsharing_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/32378/gnunet/src/secretsharing/test_secretsharing_api.c
+END
+secretsharing_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32378/gnunet/src/secretsharing/secretsharing_api.c
+END
+gnunet-service-secretsharing.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/32378/gnunet/src/secretsharing/gnunet-service-secretsharing.c
+END

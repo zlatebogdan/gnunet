@@ -1,0 +1,45 @@
+@INLINE@ test_hostlist_defaults.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-gnunet-hostlist-peer-2/
+
+[transport-tcp]
+PORT = 12968
+
+[arm]
+PORT = 12966
+DEFAULTSERVICES = topology hostlist
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-hostlist-p1-service-arm.sock
+
+[statistics]
+PORT = 12967
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-hostlist-p1-service-statistics.sock
+
+[resolver]
+PORT = 12964
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-hostlist-p1-service-resolver.sock
+
+[peerinfo]
+PORT = 12969
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-hostlist-p1-service-peerinfo.sock
+
+[transport]
+PORT = 12965
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-hostlist-p1-service-transport.sock
+
+[core]
+PORT = 12970
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-hostlist-p1-service-core.sock
+
+[hostlist]
+HTTPPORT = 12980
+HOSTLISTFILE = hostlists_learn_peer.file
+OPTIONS = -b -e
+SERVERS = http://localhost:12981/
+
+[dht]
+AUTOSTART = NO
+
+
+[ats]
+PORT = 12971
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-ats-p1-service-core.sock

@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 384
+test_graph.dot
+libgnunetregextest.a
+libgnunetregex_internal.a
+test_regex_api_data.conf
+test_regex_api
+regex.conf
+gnunet-service-regex
+perf-regex
+gnunet-regex-simulation-profiler
+test_regex_iptoregex
+test_regex_graph_api
+test_regex_proofs
+test_regex_iterate_api
+test_regex_eval_api
+test_regex_big
+perf-regex
+gnunet-daemon-regexprofiler
+gnunet-regex-profiler
+Makefile.in
+Makefile
+.deps
+
+END

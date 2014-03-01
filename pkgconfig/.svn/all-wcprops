@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/29903/gnunet/pkgconfig
+END
+gnunetcore.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetcore.pc.in
+END
+gnunettestbed.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunettestbed.pc.in
+END
+gnunetspeaker.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29902/gnunet/pkgconfig/gnunetspeaker.pc.in
+END
+gnunetblock.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunetblock.pc.in
+END
+gnunetstatistics.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunetstatistics.pc.in
+END
+gnunetset.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetset.pc.in
+END
+gnunetpsycstore.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetpsycstore.pc.in
+END
+gnunettransport.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunettransport.pc.in
+END
+gnunetdatacache.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetdatacache.pc.in
+END
+gnunetdnsparser.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetdnsparser.pc.in
+END
+gnunethello.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunethello.pc.in
+END
+gnunetmicrophone.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29902/gnunet/pkgconfig/gnunetmicrophone.pc.in
+END
+gnunetmulticast.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetmulticast.pc.in
+END
+gnunetmysql.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetmysql.pc.in
+END
+gnunettun.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunettun.pc.in
+END
+gnunetscalarproduct.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetscalarproduct.pc.in
+END
+gnunetpostgres.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetpostgres.pc.in
+END
+gnunetpeerinfo.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunetpeerinfo.pc.in
+END
+gnunetfs.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunetfs.pc.in
+END
+gnunetdv.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunetdv.pc.in
+END
+gnunetconversation.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetconversation.pc.in
+END
+gnunetpsyc.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetpsyc.pc.in
+END
+gnunetarm.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunetarm.pc.in
+END
+gnunetdht.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunetdht.pc.in
+END
+gnunetconsensus.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetconsensus.pc.in
+END
+gnunetdnsstub.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetdnsstub.pc.in
+END
+gnunetdns.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetdns.pc.in
+END
+gnunetdatastore.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetdatastore.pc.in
+END
+gnunetats.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetats.pc.in
+END
+gnunetgns.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetgns.pc.in
+END
+gnunetenv.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetenv.pc.in
+END
+gnunetidentity.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetidentity.pc.in
+END
+gnunet_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunet_config.h.in
+END
+gnunetmesh.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetmesh.pc.in
+END
+gnunetnamestore.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetnamestore.pc.in
+END
+gnunetfragmentation.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunetfragmentation.pc.in
+END
+gnunetvpn.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24638/gnunet/pkgconfig/gnunetvpn.pc.in
+END
+gnunetrevocation.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29901/gnunet/pkgconfig/gnunetrevocation.pc.in
+END
+gnunetregex.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20704/gnunet/pkgconfig/gnunetregex.pc.in
+END
+gnunetutil.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunetutil.pc.in
+END
+gnunettesting.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13539/gnunet/pkgconfig/gnunettesting.pc.in
+END
+gnunetnat.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16337/gnunet/pkgconfig/gnunetnat.pc.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/29902/gnunet/pkgconfig/Makefile.am
+END
+gnunetnse.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16336/gnunet/pkgconfig/gnunetnse.pc.in
+END

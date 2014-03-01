@@ -1,0 +1,2 @@
+EXPORTS
+NSPStartup=GNUNET_W32NSP_NSPStartup

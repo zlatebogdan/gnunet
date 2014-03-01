@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/32262/gnunet/src/gns/nss
+END
+uninstall-nss-plugin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28162/gnunet/src/gns/nss/uninstall-nss-plugin.sh
+END
+nss_gns_query.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/32262/gnunet/src/gns/nss/nss_gns_query.c
+END
+nss_gns_query.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/32262/gnunet/src/gns/nss/nss_gns_query.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31626/gnunet/src/gns/nss/Makefile.am
+END
+map-file
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/21339/gnunet/src/gns/nss/map-file
+END
+nss_gns.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/32262/gnunet/src/gns/nss/nss_gns.c
+END
+install-nss-plugin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28162/gnunet/src/gns/nss/install-nss-plugin.sh
+END

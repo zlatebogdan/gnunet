@@ -1,0 +1,5 @@
+@INLINE@ test_testbed_api_template.conf
+
+[testbed]
+OVERLAY_TOPOLOGY = CLIQUE
+SETUP_TIMEOUT = 2 s

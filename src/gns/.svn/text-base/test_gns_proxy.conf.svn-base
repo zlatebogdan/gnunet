@@ -1,0 +1,31 @@
+[PATHS]
+GNUNET_TEST_HOME = /tmp/gnunet-test-gns-proxy/
+
+[transport]
+PLUGINS = tcp
+
+[arm]
+DEFAULTSERVICES = statistics dns namestore gns
+PORT = 0
+ALLOW_SHUTDOWN = YES
+
+[testing]
+WEAKRANDOM = YES
+HOSTKEYSFILE = ${DATADIR}/testing_hostkeys.dat
+
+[gns]
+AUTOSTART = YES
+ZONEKEY = $GNUNET_TEST_HOME/.hostkey
+HIJACK_DNS = YES
+
+[gns-proxy]
+PROXY_CACERT = proxy/test_cert.pem
+PROXY_UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-gns-proxy.sock
+
+[namestore]
+AUTOSTART = YES
+
+[dns]
+PROVIDE_EXIT = NO
+#DNS_EXIT = 8.8.8.8
+#PREFIX = valgrind --leak-check=full

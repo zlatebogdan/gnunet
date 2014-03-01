@@ -1,0 +1,28 @@
+K 10
+svn:ignore
+V 703
+test_integration_reconnect_nat.py
+test_integration_reconnect.py
+test_integration_disconnect_nat.py
+test_integration_disconnect.py
+gnunet_testing.pyc
+gnunet_pyexpect.pyc
+test_connection_stability
+test_integration_connect_on_restart.py
+test_integration_connection_values_tcp_udp_http.py
+test_integration_connection_values_tcp_udp.py
+test_integration_connection_values_tcp.py
+connection_watchdog
+.deps
+test_integration_restart.py
+test_integration_clique_nat.py
+test_integration_clique.py
+test_integration_bootstrap_and_connect_and_disconnect_nat.py
+test_integration_bootstrap_and_connect_and_disconnect.py
+test_integration_bootstrap_and_connect.py
+gnunet_pyexpect.py
+Makefile.in
+Makefile
+gnunet_testing.py
+
+END

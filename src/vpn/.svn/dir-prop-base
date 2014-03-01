@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 291
+test_gnunet_vpn-6_to_4
+test_gnunet_vpn-6_over
+test_gnunet_vpn-4_to_6
+test_gnunet_vpn-4_over
+test_gnunet_vpn
+vpn.conf
+gnunet-vpn
+gnunet-service-vpn
+gnunet-daemon-exit
+gnunet-service-dns
+gnunet-helper-vpn
+gnunet-helper-hijack-dns
+Makefile
+Makefile.in
+gnunet-vpn-helper
+gnunet-daemon-vpn
+.deps
+
+END

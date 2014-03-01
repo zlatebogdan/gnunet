@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 256
+test_conversation_api_twocalls
+test_conversation_api_reject
+gnunet-conversation-test
+test_conversation_api
+Makefile.in
+Makefile
+gnunet-service-conversation
+gnunet-helper-audio-record
+gnunet-helper-audio-playback
+gnunet-conversation
+conversation.conf
+.deps
+
+END

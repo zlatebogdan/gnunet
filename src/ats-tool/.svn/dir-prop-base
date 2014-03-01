@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 38
+Makefile.in
+Makefile
+gnunet-ats
+.deps
+
+END

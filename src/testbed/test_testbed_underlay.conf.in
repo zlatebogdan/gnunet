@@ -1,0 +1,15 @@
+@INLINE@ test_testbed_api_template.conf
+
+[testbed]
+OVERLAY_TOPOLOGY = LINE
+OPERATION_TIMEOUT = 5 s
+
+[testbed-underlay]
+AUTOSTART = NO
+DBFILE = /will/be/overwritten/by/testcase
+
+[dv]
+AUTOSTART = NO
+
+[arm]
+DEFAULTSERVICES = core transport testbed-underlay

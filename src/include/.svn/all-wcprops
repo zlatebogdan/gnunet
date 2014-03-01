@@ -1,0 +1,587 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/32441/gnunet/src/include
+END
+gnunet_statistics_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31588/gnunet/src/include/gnunet_statistics_service.h
+END
+gnunet_transport_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32122/gnunet/src/include/gnunet_transport_plugin.h
+END
+gnunet_namestore_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30456/gnunet/src/include/gnunet_namestore_plugin.h
+END
+gnunet_gnsrecord_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/30665/gnunet/src/include/gnunet_gnsrecord_lib.h
+END
+gnunet_namestore_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/30667/gnunet/src/include/gnunet_namestore_service.h
+END
+gnunet_block_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32228/gnunet/src/include/gnunet_block_lib.h
+END
+gnunet_service_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_service_lib.h
+END
+gnunet_applications.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30183/gnunet/src/include/gnunet_applications.h
+END
+gnunet_dnsparser_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31161/gnunet/src/include/gnunet_dnsparser_lib.h
+END
+gnunet_getopt_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31132/gnunet/src/include/gnunet_getopt_lib.h
+END
+gnunet_hello_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31928/gnunet/src/include/gnunet_hello_lib.h
+END
+gnunet_regex_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_regex_service.h
+END
+gnunet_social_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/31790/gnunet/src/include/gnunet_social_service.h
+END
+gnunet_mysql_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_mysql_lib.h
+END
+tap-windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/29905/gnunet/src/include/tap-windows.h
+END
+gnunet_program_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28749/gnunet/src/include/gnunet_program_lib.h
+END
+winproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/29778/gnunet/src/include/winproc.h
+END
+block_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/30096/gnunet/src/include/block_fs.h
+END
+gnunet_lockmanager_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_lockmanager_service.h
+END
+gnunet_mq_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31881/gnunet/src/include/gnunet_mq_lib.h
+END
+gnunet_client_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_client_lib.h
+END
+block_regex.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30096/gnunet/src/include/block_regex.h
+END
+gnunet_nse_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29725/gnunet/src/include/gnunet_nse_service.h
+END
+gnunet_load_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28836/gnunet/src/include/gnunet_load_lib.h
+END
+gnunet_identity_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30424/gnunet/src/include/gnunet_identity_service.h
+END
+gnunet_set_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30820/gnunet/src/include/gnunet_set_service.h
+END
+gnunet_psycstore_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/30328/gnunet/src/include/gnunet_psycstore_service.h
+END
+gnunet_datacache_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28836/gnunet/src/include/gnunet_datacache_plugin.h
+END
+gnunet_env_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/31791/gnunet/src/include/gnunet_env_lib.h
+END
+gnunet_strings_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/31727/gnunet/src/include/gnunet_strings_lib.h
+END
+gnunet_disk_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30065/gnunet/src/include/gnunet_disk_lib.h
+END
+gnunet_peer_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28836/gnunet/src/include/gnunet_peer_lib.h
+END
+gnunet_namecache_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/30233/gnunet/src/include/gnunet_namecache_service.h
+END
+gnunet_fragmentation_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/24451/gnunet/src/include/gnunet_fragmentation_lib.h
+END
+gnunet_plugin_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30533/gnunet/src/include/gnunet_plugin_lib.h
+END
+gnunet_connection_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32152/gnunet/src/include/gnunet_connection_lib.h
+END
+gnunet_scalarproduct_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31098/gnunet/src/include/gnunet_scalarproduct_service.h
+END
+gauger.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/25117/gnunet/src/include/gauger.h
+END
+gnunet_server_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31198/gnunet/src/include/gnunet_server_lib.h
+END
+gnunet_postgres_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_postgres_lib.h
+END
+gnunet_configuration_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31019/gnunet/src/include/gnunet_configuration_lib.h
+END
+gnunet_arm_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_arm_service.h
+END
+gnunet_dht_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_dht_service.h
+END
+gnunet_consensus_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32174/gnunet/src/include/gnunet_consensus_service.h
+END
+gnunet_signal_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30932/gnunet/src/include/gnunet_signal_lib.h
+END
+gnunet_testing_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30096/gnunet/src/include/gnunet_testing_lib.h
+END
+gnunet_gnsrecord_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30213/gnunet/src/include/gnunet_gnsrecord_plugin.h
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28836/gnunet/src/include/gettext.h
+END
+gnunet_dns_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_dns_service.h
+END
+gnunet_helper_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_helper_lib.h
+END
+gnunet_ats_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30591/gnunet/src/include/gnunet_ats_plugin.h
+END
+gnunet_crypto_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/32384/gnunet/src/include/gnunet_crypto_lib.h
+END
+gnunet_gns_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/31985/gnunet/src/include/gnunet_gns_service.h
+END
+gnunet_block_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_block_plugin.h
+END
+gnunet_nat_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/31813/gnunet/src/include/gnunet_nat_lib.h
+END
+gnunet_container_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31667/gnunet/src/include/gnunet_container_lib.h
+END
+gnunet_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32355/gnunet/src/include/gnunet_constants.h
+END
+block_dns.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/30096/gnunet/src/include/block_dns.h
+END
+gnunet_speaker_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_speaker_lib.h
+END
+gnunet_secretsharing_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/32174/gnunet/src/include/gnunet_secretsharing_service.h
+END
+gnunet_namecache_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30233/gnunet/src/include/gnunet_namecache_plugin.h
+END
+gnunet_vpn_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_vpn_service.h
+END
+gnunet_datacache_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28836/gnunet/src/include/gnunet_datacache_lib.h
+END
+gnunet_protocols.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32016/gnunet/src/include/gnunet_protocols.h
+END
+gnunet_peerinfo_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_peerinfo_service.h
+END
+gnunet_fs_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30328/gnunet/src/include/gnunet_fs_service.h
+END
+gnunet_dv_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31356/gnunet/src/include/gnunet_dv_service.h
+END
+gnunet_conversation_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/31637/gnunet/src/include/gnunet_conversation_service.h
+END
+gnunet_bandwidth_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32263/gnunet/src/include/gnunet_bandwidth_lib.h
+END
+gnunet_tun_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/31620/gnunet/src/include/gnunet_tun_lib.h
+END
+gnunet_psyc_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31792/gnunet/src/include/gnunet_psyc_service.h
+END
+gnunet_util_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29724/gnunet/src/include/gnunet_util_lib.h
+END
+gnunet_datastore_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_datastore_plugin.h
+END
+gnunet_scheduler_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31917/gnunet/src/include/gnunet_scheduler_lib.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31787/gnunet/src/include/platform.h
+END
+gnunet_os_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/32441/gnunet/src/include/gnunet_os_lib.h
+END
+gnunet_dnsstub_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_dnsstub_lib.h
+END
+gnunet_psycstore_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30096/gnunet/src/include/gnunet_psycstore_plugin.h
+END
+plibc.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32285/gnunet/src/include/plibc.h
+END
+gnunet_testbed_logger_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_testbed_logger_service.h
+END
+gnunet_testbed_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31740/gnunet/src/include/gnunet_testbed_service.h
+END
+gnunet_mesh_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32106/gnunet/src/include/gnunet_mesh_service.h
+END
+gnunet_transport_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32154/gnunet/src/include/gnunet_transport_service.h
+END
+gnunet_network_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30063/gnunet/src/include/gnunet_network_lib.h
+END
+gnunet_friends_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29936/gnunet/src/include/gnunet_friends_lib.h
+END
+gnunet_resolver_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_resolver_service.h
+END
+gnunet_time_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_time_lib.h
+END
+gnunet_signatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31804/gnunet/src/include/gnunet_signatures.h
+END
+gnunet_multicast_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31790/gnunet/src/include/gnunet_multicast_service.h
+END
+gnunet_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31986/gnunet/src/include/gnunet_common.h
+END
+gnunet_revocation_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30096/gnunet/src/include/gnunet_revocation_service.h
+END
+gnunet_microphone_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_microphone_lib.h
+END
+gnunet_bio_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29905/gnunet/src/include/gnunet_bio_lib.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31714/gnunet/src/include/Makefile.am
+END
+gnunet_datastore_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/30985/gnunet/src/include/gnunet_datastore_service.h
+END
+gnunet_ats_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/31861/gnunet/src/include/gnunet_ats_service.h
+END
+gnunet_core_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32125/gnunet/src/include/gnunet_core_service.h
+END

@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 162
+dns.conf
+gnunet-service-dns-new
+gnunet-helper-dns
+gnunet-dns-redirector
+gnunet-dns-monitor
+Makefile.in
+Makefile
+gnunet-service-dns
+gnunet-helper-hijack-dns
+.deps
+
+END

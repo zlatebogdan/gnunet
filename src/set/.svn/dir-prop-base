@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 165
+test_set_union_result_full
+test_set_api
+gnunet-set-profiler
+gnunet-set-ibf-profiler
+gnunet-set
+gnunet-service-set
+set.conf
+Makefile.in
+Makefile
+gnunet-set-bug
+.deps
+
+END

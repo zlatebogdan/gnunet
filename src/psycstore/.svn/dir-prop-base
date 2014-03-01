@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 111
+test_psycstore
+test_plugin_psycstore_sqlite
+psycstore.conf
+Makefile.in
+Makefile
+gnunet-service-psycstore
+.deps
+
+END

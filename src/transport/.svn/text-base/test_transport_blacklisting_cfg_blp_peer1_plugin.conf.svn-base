@@ -1,0 +1,34 @@
+@INLINE@ template_cfg_peer1.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-transport/api-tcp-p1/
+
+[transport-tcp]
+PORT = 12000
+TIMEOUT = 5 s
+
+[arm]
+PORT = 12005
+DEFAULTSERVICES = transport
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-arm.sock
+
+[statistics]
+PORT = 12004
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-statistics.sock
+
+[resolver]
+PORT = 12003
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-resolver.sock
+
+[peerinfo]
+PORT = 12002
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-peerinfo.sock
+
+[transport]
+#PREFIX = valgrind --leak-check=full
+PORT = 12001
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-transport.sock
+PLUGINS = tcp
+
+[transport-blacklist-6ULBJK6QQJ64FAG9DF0292AS5IA9CCAC04IQU0HF8THM635HMBBG]
+DJ5SVJJDHH06BH1H0DE0V8CMBQG9AD8M85PF02SS3285AQ3R0R50 = tcp
+ 

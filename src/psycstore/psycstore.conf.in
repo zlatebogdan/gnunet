@@ -1,0 +1,12 @@
+[psycstore]
+AUTOSTART = @AUTOSTART@
+BINARY = gnunet-service-psycstore
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-psycstore.sock
+HOSTNAME = localhost
+@UNIXONLY@PORT = 2111
+UNIX_MATCH_UID = NO
+UNIX_MATCH_GID = YES
+DATABASE = sqlite
+
+[psycstore-sqlite]
+FILENAME = $GNUNET_DATA_HOME/psycstore/sqlite.db

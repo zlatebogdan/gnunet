@@ -1,0 +1,79 @@
+#!@PYTHON@
+#    This file is part of GNUnet.
+#    (C) 2010 Christian Grothoff (and other contributing authors)
+#
+#    GNUnet is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published
+#    by the Free Software Foundation; either version 2, or (at your
+#    option) any later version.
+#
+#    GNUnet is distributed in the hope that it will be useful, but
+#    WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+#    General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with GNUnet; see the file COPYING.  If not, write to the
+#    Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+#    Boston, MA 02111-1307, USA.
+#
+# Testcase for file-sharing command-line tools (publish, search, download)
+import sys
+import os
+import subprocess
+import re
+import shutil
+
+srcdir = "../.."
+gnunet_pyexpect_dir = os.path.join (srcdir, "contrib")
+if gnunet_pyexpect_dir not in sys.path:
+  sys.path.append (gnunet_pyexpect_dir)
+
+from gnunet_pyexpect import pexpect
+
+if os.name == 'posix':
+  download = './gnunet-download'
+  gnunetarm = 'gnunet-arm'
+  publish = './gnunet-publish'
+  unindex = './gnunet-unindex'
+  search = './gnunet-search'
+elif os.name == 'nt':
+  download = './gnunet-download.exe'
+  gnunetarm = 'gnunet-arm.exe'
+  publish = './gnunet-publish.exe'
+  unindex = './gnunet-unindex.exe'
+  search = './gnunet-search.exe'
+
+if os.name == "nt":
+  shutil.rmtree (os.path.join (os.getenv ("TEMP"), "gnunet-test-fs-py-psd"), True)
+else:
+  shutil.rmtree ("/tmp/gnunet-test-fs-py-psd", True)
+
+arm = subprocess.Popen ([gnunetarm, '-sq', '-c', 'test_gnunet_fs_psd_data.conf'])
+arm.communicate ()
+
+# first, basic publish-search-download run
+try:
+  pub = pexpect ()
+  pub.spawn (None, [publish, '-c', 'test_gnunet_fs_psd_data.conf', '-n', '-m', "description:Test archive", '-k', 'tst', 'test_gnunet_fs_rec_data.tgz'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+  pub.expect ("stdout", re.compile (r"Publishing `.+test_gnunet_fs_rec_data.tgz' done\.\r?\n"))
+  pub.expect ("stdout", re.compile (r"URI is `gnunet://fs/chk/2VKHJMR74CB6GB1GFJNOO95BTINA2PEO25FL48GAS7SPBMA0GDEK5U74R1VIHK0LA6919QRS376BHQFDOE3OUP0JOU92K1NIRJMHFCO\.49BQ3R5C10JA1695IF71FCQ8VVG4IKIPH04BD9CQ22O6JEK915A7CEPQ17OD0NUQHTR5K4HHEGIKEVPFODB7IAUC0EKIAL2R781E9DG\.17822'\.\r?\n"))
+
+  s = pexpect ()
+  s.spawn (None, [search, '-V', '-t', '1000 ms', '-N', '1', '-c', 'test_gnunet_fs_psd_data.conf', 'tst'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+  s.expect ("stdout", re.compile (r'#0:\r?\n'))
+  s.expect ("stdout", re.compile (r'gnunet-download -o "test_gnunet_fs_rec_data.tgz" gnunet://fs/chk/2VKHJMR74CB6GB1GFJNOO95BTINA2PEO25FL48GAS7SPBMA0GDEK5U74R1VIHK0LA6919QRS376BHQFDOE3OUP0JOU92K1NIRJMHFCO\.49BQ3R5C10JA1695IF71FCQ8VVG4IKIPH04BD9CQ22O6JEK915A7CEPQ17OD0NUQHTR5K4HHEGIKEVPFODB7IAUC0EKIAL2R781E9DG\.17822\r?\n'))
+  s.expect ("stdout", re.compile (r"\s*description: Test archive\r?\n"))
+  
+  down = pexpect ()
+  down.spawn (None, [download, '-c', 'test_gnunet_fs_psd_data.conf', '-o', 'test_gnunet_fs_rec_data.tar.gz', 'gnunet://fs/chk/2VKHJMR74CB6GB1GFJNOO95BTINA2PEO25FL48GAS7SPBMA0GDEK5U74R1VIHK0LA6919QRS376BHQFDOE3OUP0JOU92K1NIRJMHFCO.49BQ3R5C10JA1695IF71FCQ8VVG4IKIPH04BD9CQ22O6JEK915A7CEPQ17OD0NUQHTR5K4HHEGIKEVPFODB7IAUC0EKIAL2R781E9DG.17822'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+  down.expect ("stdout", re.compile (r"Downloading `test_gnunet_fs_rec_data.tar.gz' done (.*).\r?\n"))
+  os.remove ("test_gnunet_fs_rec_data.tar.gz")
+
+finally:
+  arm = subprocess.Popen ([gnunetarm, '-eq', '-c', 'test_gnunet_fs_psd_data.conf'])
+  arm.communicate ()
+  if os.name == "nt":
+    shutil.rmtree (os.path.join (os.getenv ("TEMP"), "gnunet-test-fs-py-psd"), True)
+  else:
+    shutil.rmtree ("/tmp/gnunet-test-fs-py-psd", True)

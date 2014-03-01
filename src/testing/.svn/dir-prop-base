@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 381
+*.log
+*.trs
+topology_clique.dot
+testing_topo_initial
+final_topology.dot
+test_testing_sharedservices
+test_testing_new_servicestartup
+test_testing_new_portreservation
+test_testing_new_peerstartup
+test_testing_servicestartup
+test_testing_portreservation
+test_testing_peerstartup
+test_testing_peerstartup2
+gnunet-testing
+gnunet-testing-run-service
+list-keys
+Makefile.in
+Makefile
+.deps
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 183
+test-nat-test
+test_nat_mini
+test_nat_test
+test_nat
+gnunet-nat-server
+gnunet-helper-nat-server
+gnunet-helper-nat-client
+test_nat.gcno
+test_nat.gcda
+test-nat
+Makefile.in
+Makefile
+.deps
+
+END

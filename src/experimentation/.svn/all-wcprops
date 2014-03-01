@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32149/gnunet/src/experimentation
+END
+gnunet-daemon-experimentation_storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/29771/gnunet/src/experimentation/gnunet-daemon-experimentation_storage.c
+END
+gnunet-daemon-experimentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/30127/gnunet/src/experimentation/gnunet-daemon-experimentation.h
+END
+test_experimentation_clique.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/30043/gnunet/src/experimentation/test_experimentation_clique.conf
+END
+test_experimentation_clique_run.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/30170/gnunet/src/experimentation/test_experimentation_clique_run.c
+END
+gnunet-daemon-experimentation_nodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32124/gnunet/src/experimentation/gnunet-daemon-experimentation_nodes.c
+END
+experimentation.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/30044/gnunet/src/experimentation/experimentation.conf.in
+END
+gnunet-daemon-experimentation_capabilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/30072/gnunet/src/experimentation/gnunet-daemon-experimentation_capabilities.c
+END
+test_experimentation_clique_connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/30170/gnunet/src/experimentation/test_experimentation_clique_connect.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/32149/gnunet/src/experimentation/Makefile.am
+END
+gnunet-daemon-experimentation_scheduler.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/31559/gnunet/src/experimentation/gnunet-daemon-experimentation_scheduler.c
+END
+gnunet-daemon-experimentation.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/29737/gnunet/src/experimentation/gnunet-daemon-experimentation.c
+END
+test_experiments.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27296/gnunet/src/experimentation/test_experiments.exp
+END
+gnunet-daemon-experimentation_experiments.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/30127/gnunet/src/experimentation/gnunet-daemon-experimentation_experiments.c
+END

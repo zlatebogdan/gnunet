@@ -1,0 +1,61 @@
+[ats]
+AUTOSTART = @AUTOSTART@
+@UNIXONLY@ PORT = 2098
+HOSTNAME = localhost
+BINARY = gnunet-service-ats
+ACCEPT_FROM = 127.0.0.1;
+ACCEPT_FROM6 = ::1;
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-ats.sock
+UNIX_MATCH_UID = YES
+UNIX_MATCH_GID = YES
+
+# Designated assignment mode: PROPORTIONAL / MLP / RIL
+MODE = PROPORTIONAL
+
+# Network specific inbound/outbound quotas
+UNSPECIFIED_QUOTA_IN = 64 KiB
+UNSPECIFIED_QUOTA_OUT = 64 KiB
+# LOOPBACK
+LOOPBACK_QUOTA_IN = unlimited
+LOOPBACK_QUOTA_OUT = unlimited
+# LAN
+LAN_QUOTA_IN = unlimited
+LAN_QUOTA_OUT = unlimited
+# WAN
+WAN_QUOTA_IN = 64 KiB
+WAN_QUOTA_OUT = 64 KiB
+# WLAN
+WLAN_QUOTA_IN = 1 MiB
+WLAN_QUOTA_OUT = 1 MiB
+# BLUETOOTH
+BLUETOOTH_QUOTA_IN = 128 KiB
+BLUETOOTH_QUOTA_OUT = 128 KiB
+# ATS options
+
+
+# MLP specific settings
+# MLP defaults
+
+# Maximum duration for a solution process
+# MLP_MAX_DURATION = 3 s
+
+# Maximum number of iterations for a solution process
+# MLP_MAX_ITERATIONS = 1024
+# MLP_COEFFICIENT_D = 1.0
+# MLP_COEFFICIENT_U = 1.0
+# MLP_COEFFICIENT_R = 1.0
+# MLP_MIN_BANDWIDTH = 1024
+# MLP_MIN_CONNECTIONS = 4
+
+# MLP Log settings
+# Dump all problems to disk
+# MLP_DUMP_PROBLEM_ALL = YES
+# Dump all solution to disk
+# MLP_DUMP_SOLUTION_ALL = YES
+# Print GLPK output
+# MLP_GLPK_VERBOSE = YES
+
+# Dump all problems to disk
+MLP_DUMP_PROBLEM_ON_FAIL = YES
+# Dump all solution to disk
+MLP_DUMP_SOLUTION_ON_FAIL = YES

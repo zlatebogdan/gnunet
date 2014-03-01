@@ -1,0 +1,32 @@
+[datastore]
+AUTOSTART = @AUTOSTART@
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-datastore.sock
+UNIX_MATCH_UID = NO
+UNIX_MATCH_GID = YES
+@UNIXONLY@ PORT = 2093
+HOSTNAME = localhost
+BINARY = gnunet-service-datastore
+ACCEPT_FROM = 127.0.0.1;
+ACCEPT_FROM6 = ::1;
+QUOTA = 5 GB
+BLOOMFILTER = $GNUNET_DATA_HOME/datastore/bloomfilter
+DATABASE = sqlite
+# DISABLE_SOCKET_FORWARDING = NO
+
+[datastore-sqlite]
+FILENAME = $GNUNET_DATA_HOME/datastore/sqlite.db
+
+[datastore-postgres]
+CONFIG = connect_timeout=10; dbname=gnunet
+
+[datastore-mysql]
+DATABASE = gnunet
+CONFIG = ~/.my.cnf
+# USER = gnunet
+# PASSWORD =
+# HOST = localhost
+# PORT = 3306
+
+
+[datastore-heap]
+HASHMAPSIZE = 1024

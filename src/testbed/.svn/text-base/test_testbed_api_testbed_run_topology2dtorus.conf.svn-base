@@ -1,0 +1,5 @@
+@INLINE@ test_testbed_api_template.conf
+
+[testbed]
+OVERLAY_TOPOLOGY = 2D_TORUS
+

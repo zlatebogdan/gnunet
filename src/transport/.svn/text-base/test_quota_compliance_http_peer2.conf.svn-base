@@ -1,0 +1,32 @@
+@INLINE@ template_cfg_peer2.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test_quota_compliance_peer2
+
+[transport-http_server]
+PORT = 3010
+USE_IPv6 = NO
+BINDTO = 127.0.0.1
+
+
+[arm]
+PORT = 3015
+UNIXPATH = $GNUNET_RUNTIME_DIR/test_quota_compliance_http_arm_peer2.sock
+
+[statistics]
+PORT = 3014
+UNIXPATH = $GNUNET_RUNTIME_DIR/test_quota_compliance_http_statistics_peer2.sock
+
+[resolver]
+PORT = 3013
+UNIXPATH = $GNUNET_RUNTIME_DIR/test_quota_compliance_http_resolver_peer2.sock
+
+[peerinfo]
+PORT = 3012
+UNIXPATH = $GNUNET_RUNTIME_DIR/test_quota_compliance_http_peerinfo_peer2.sock
+
+[transport]
+PORT = 3011
+PLUGINS = http_server
+UNIXPATH = $GNUNET_RUNTIME_DIR/test_quota_compliance_http_transport_peer2.sock
+
+

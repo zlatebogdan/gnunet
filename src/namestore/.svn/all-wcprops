@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/32356/gnunet/src/namestore
+END
+test_namestore_api_zone_iteration.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_zone_iteration.c
+END
+test_plugin_namestore_sqlite.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19959/gnunet/src/namestore/test_plugin_namestore_sqlite.conf
+END
+test_namestore_api_zone_iteration_nick.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_zone_iteration_nick.c
+END
+test_namestore_api_remove.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_remove.c
+END
+test_plugin_namestore_postgres.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/22285/gnunet/src/namestore/test_plugin_namestore_postgres.conf
+END
+test_namestore_api_zone_iteration_stop.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_zone_iteration_stop.c
+END
+test_namestore_api_lookup_public.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_lookup_public.c
+END
+test_namestore_api_lookup_shadow.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_lookup_shadow.c
+END
+namestore_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31443/gnunet/src/namestore/namestore_api.c
+END
+test_namestore_api.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30237/gnunet/src/namestore/test_namestore_api.conf
+END
+test_namestore_api_lookup_shadow_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31597/gnunet/src/namestore/test_namestore_api_lookup_shadow_filter.c
+END
+gnunet-service-namestore.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32356/gnunet/src/namestore/gnunet-service-namestore.c
+END
+gnunet-namestore.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/31605/gnunet/src/namestore/gnunet-namestore.c
+END
+test_namestore_api_zone_iteration_specific_zone.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_zone_iteration_specific_zone.c
+END
+test_namestore_api_store.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_store.c
+END
+plugin_namestore_postgres.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/31500/gnunet/src/namestore/plugin_namestore_postgres.c
+END
+namestore.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30436/gnunet/src/namestore/namestore.h
+END
+test_namestore_api_store_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_store_update.c
+END
+test_namestore_api_monitoring_existing.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_monitoring_existing.c
+END
+test_hostkey
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27696/gnunet/src/namestore/test_hostkey
+END
+namestore.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31297/gnunet/src/namestore/namestore.conf.in
+END
+test_namestore_delete.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31725/gnunet/src/namestore/test_namestore_delete.sh
+END
+test_namestore_api_lookup_private.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_lookup_private.c
+END
+test_plugin_namestore.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30537/gnunet/src/namestore/test_plugin_namestore.c
+END
+test_namestore_put.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/31725/gnunet/src/namestore/test_namestore_put.sh
+END
+test_namestore_lookup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31725/gnunet/src/namestore/test_namestore_lookup.sh
+END
+gnunet-namestore-fcfsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31559/gnunet/src/namestore/gnunet-namestore-fcfsd.c
+END
+test_namestore_api_lookup_nick.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_lookup_nick.c
+END
+test_namestore_api_zone_to_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_zone_to_name.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32149/gnunet/src/namestore/Makefile.am
+END
+test_namestore_api_monitoring.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_monitoring.c
+END
+test_namestore_api_remove_not_existing_record.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/31231/gnunet/src/namestore/test_namestore_api_remove_not_existing_record.c
+END
+plugin_namestore_sqlite.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30436/gnunet/src/namestore/plugin_namestore_sqlite.c
+END
+namestore_api_monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30368/gnunet/src/namestore/namestore_api_monitor.c
+END

@@ -1,0 +1,6 @@
+@INLINE@ test_defaults.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-gnunet-datastore-plugin-heap/
+
+[datastore]
+DATABASE = heap

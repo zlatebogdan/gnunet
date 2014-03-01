@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/32441/gnunet/src/core
+END
+test_core_api_start_only.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32441/gnunet/src/core/test_core_api_start_only.c
+END
+test_core_quota_peer2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30044/gnunet/src/core/test_core_quota_peer2.conf
+END
+test_core_quota_asymmetric_send_limit_peer2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/30044/gnunet/src/core/test_core_quota_asymmetric_send_limit_peer2.conf
+END
+test_core_api_send_to_self.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/29905/gnunet/src/core/test_core_api_send_to_self.c
+END
+test_core_api_send_to_self.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/30044/gnunet/src/core/test_core_api_send_to_self.conf
+END
+gnunet-service-core_neighbours.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32266/gnunet/src/core/gnunet-service-core_neighbours.c
+END
+test_core_api_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30044/gnunet/src/core/test_core_api_data.conf
+END
+test_core_api_mq.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31740/gnunet/src/core/test_core_api_mq.c
+END
+gnunet-service-core_neighbours.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32266/gnunet/src/core/gnunet-service-core_neighbours.h
+END
+test_core_api_peer1.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30044/gnunet/src/core/test_core_api_peer1.conf
+END
+test_core_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32441/gnunet/src/core/test_core_api.c
+END
+core_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32125/gnunet/src/core/core_api.c
+END
+test_core_quota_asymmetric_recv_limited_peer2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/30044/gnunet/src/core/test_core_quota_asymmetric_recv_limited_peer2.conf
+END
+gnunet-service-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30096/gnunet/src/core/gnunet-service-core.c
+END
+gnunet-service-core_kx.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31741/gnunet/src/core/gnunet-service-core_kx.c
+END
+gnunet-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29905/gnunet/src/core/gnunet-core.c
+END
+gnunet-service-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32124/gnunet/src/core/gnunet-service-core.h
+END
+gnunet-service-core_kx.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30096/gnunet/src/core/gnunet-service-core_kx.h
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/32125/gnunet/src/core/core.h
+END
+test_core_quota_peer1.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30044/gnunet/src/core/test_core_quota_peer1.conf
+END
+core.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31142/gnunet/src/core/core.conf.in
+END
+test_core_quota_asymmetric_send_limit_peer1.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/30044/gnunet/src/core/test_core_quota_asymmetric_send_limit_peer1.conf
+END
+gnunet-service-core_clients.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32125/gnunet/src/core/gnunet-service-core_clients.c
+END
+test_core_api_reliability.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32441/gnunet/src/core/test_core_api_reliability.c
+END
+gnunet-service-core_clients.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28605/gnunet/src/core/gnunet-service-core_clients.h
+END
+gnunet-service-core_sessions.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32266/gnunet/src/core/gnunet-service-core_sessions.c
+END
+gnunet-service-core_sessions.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32266/gnunet/src/core/gnunet-service-core_sessions.h
+END
+test_core_api_peer2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30044/gnunet/src/core/test_core_api_peer2.conf
+END
+test_core_defaults.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/31700/gnunet/src/core/test_core_defaults.conf
+END
+test_core_quota_asymmetric_recv_limited_peer1.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/30044/gnunet/src/core/test_core_quota_asymmetric_recv_limited_peer1.conf
+END
+gnunet-service-core_typemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31559/gnunet/src/core/gnunet-service-core_typemap.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/32149/gnunet/src/core/Makefile.am
+END
+gnunet-service-core_typemap.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/18349/gnunet/src/core/gnunet-service-core_typemap.h
+END
+test_core_quota_compliance.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32441/gnunet/src/core/test_core_quota_compliance.c
+END
+core_api_iterate_peers.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28750/gnunet/src/core/core_api_iterate_peers.c
+END

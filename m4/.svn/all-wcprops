@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/30479/gnunet/m4
+END
+lib-link.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8479/gnunet/m4/lib-link.m4
+END
+printf-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8479/gnunet/m4/printf-posix.m4
+END
+intldir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8479/gnunet/m4/intldir.m4
+END
+uintmax_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8479/gnunet/m4/uintmax_t.m4
+END
+signed.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8479/gnunet/m4/signed.m4
+END
+libxml2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8479/gnunet/m4/libxml2.m4
+END
+glib-2.0.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8479/gnunet/m4/glib-2.0.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/8479/gnunet/m4/iconv.m4
+END
+longlong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8479/gnunet/m4/longlong.m4
+END
+inttypes.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8479/gnunet/m4/inttypes.m4
+END
+pkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/8479/gnunet/m4/pkg.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8479/gnunet/m4/glibc21.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8479/gnunet/m4/codeset.m4
+END
+inttypes_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8479/gnunet/m4/inttypes_h.m4
+END
+visibility.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8479/gnunet/m4/visibility.m4
+END
+lock.m4
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/8479/gnunet/m4/lock.m4
+END
+longdouble.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8479/gnunet/m4/longdouble.m4
+END
+nls.m4
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/8479/gnunet/m4/nls.m4
+END
+intmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8479/gnunet/m4/intmax.m4
+END
+lib-prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8479/gnunet/m4/lib-prefix.m4
+END
+xsize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/8479/gnunet/m4/xsize.m4
+END
+glibc2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8479/gnunet/m4/glibc2.m4
+END
+lcmessage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8479/gnunet/m4/lcmessage.m4
+END
+lib-ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8479/gnunet/m4/lib-ld.m4
+END
+ulonglong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8479/gnunet/m4/ulonglong.m4
+END
+absolute-header.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/18875/gnunet/m4/absolute-header.m4
+END
+wint_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8479/gnunet/m4/wint_t.m4
+END
+freetype2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8479/gnunet/m4/freetype2.m4
+END
+intl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/8479/gnunet/m4/intl.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8479/gnunet/m4/progtest.m4
+END
+inttypes-pri.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8479/gnunet/m4/inttypes-pri.m4
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8479/gnunet/m4/ChangeLog
+END
+libunistring.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/18875/gnunet/m4/libunistring.m4
+END
+stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8479/gnunet/m4/stdint_h.m4
+END
+intdiv0.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8479/gnunet/m4/intdiv0.m4
+END
+isc-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8479/gnunet/m4/isc-posix.m4
+END
+libgnurl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/30479/gnunet/m4/libgnurl.m4
+END
+po.m4
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/29495/gnunet/m4/po.m4
+END
+size_max.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8479/gnunet/m4/size_max.m4
+END
+gnulib-cache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14478/gnunet/m4/gnulib-cache.m4
+END
+gtk-2.0.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8479/gnunet/m4/gtk-2.0.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8479/gnunet/m4/gettext.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/18876/gnunet/m4/Makefile.am
+END
+align.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/29300/gnunet/m4/align.m4
+END
+ac_define_dir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8479/gnunet/m4/ac_define_dir.m4
+END
+glib-gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8479/gnunet/m4/glib-gettext.m4
+END
+extensions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14478/gnunet/m4/extensions.m4
+END
+libgcrypt.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8479/gnunet/m4/libgcrypt.m4
+END

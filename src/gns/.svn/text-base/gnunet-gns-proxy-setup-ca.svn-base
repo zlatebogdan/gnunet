@@ -1,0 +1,56 @@
+#!/bin/sh
+# This shell script will generate an X509 certificate for your gnunet-gns-proxy
+# and install it (for both GNUnet and your browser).
+#
+echo "Generating CA"
+
+options=''
+while getopts "c:" opt; do
+  case $opt in
+    c)
+      options+="-c $OPTARG"
+      ;;
+    \?)
+      echo "Invalid option: -$OPTARG" >&2
+      exit 1
+      ;;
+    :)
+      echo "Option -$OPTARG requires an argument." >&2
+      exit 1
+      ;;
+  esac
+done
+
+GNSCERT=`mktemp /tmp/gnscertXXXXXX.pem`
+GNSCAKY=`mktemp /tmp/gnscakeyXXXXXX.pem`
+GNSCANO=`mktemp /tmp/gnscakeynoencXXXXXX.pem`
+GNS_CA_CERT_PEM=`gnunet-config -s gns-proxy -o PROXY_CACERT -f $options`
+mkdir -p `dirname $GNS_CA_CERT_PEM`
+
+openssl req -new -x509 -days 3650 -extensions v3_ca -keyout $GNSCAKY -out $GNSCERT -subj "/C=ZZ/L=World/O=GNU/OU=GNUnet/CN=GNS CA/emailAddress=bounce@gnunet.org" -passout pass:"GNU Name System"
+
+echo "Removing passphrase from key"
+openssl rsa -passin pass:"GNU Name System" -in $GNSCAKY -out $GNSCANO
+
+cat $GNSCERT $GNSCANO > $GNS_CA_CERT_PEM
+
+echo "Importing CA into browsers"
+for f in ~/.mozilla/firefox/*.default
+do
+  if [ -d $f ]; then
+    echo "Importing CA info Firefox $f"
+    certutil -D -n "GNS Proxy CA" -d ~/.mozilla/firefox/*.default >/dev/null 2&>1
+    certutil -A -n "GNS Proxy CA" -t CT,, -d ~/.mozilla/firefox/*.default < $GNSCERT
+  fi
+done
+
+if [ -d ~/.pki/nssdb ]; then
+  echo "Importing CA into Chrome"
+  certutil -D -n "GNS Proxy CA" -d ~/.pki/nssdb >/dev/null 2&>1
+  certutil -A -n "GNS Proxy CA" -t CT,, -d ~/.pki/nssdb < $GNSCERT
+fi
+
+
+rm $GNSCAKY $GNSCANO $GNSCERT
+
+echo "You can now start gnunet-gns-proxy and configure your browser to use a SOCKS proxy on port 7777"

@@ -1,0 +1,35 @@
+@INLINE@ template_cfg_peer1.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-transport/api-udp-nat-p1/
+
+[nat]
+BEHIND_NAT = YES
+ALLOW_NAT = NO
+ONLY_NAT_ADDRESSES = YES
+
+[transport-udp]
+PORT = 0
+
+[arm]
+PORT = 12065
+DEFAULTSERVICES = transport
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-arm.sock
+
+[statistics]
+PORT = 12064
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-statistics.sock
+
+[resolver]
+PORT = 12063
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-resolver.sock
+
+[peerinfo]
+PORT = 12062
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-peerinfo.sock
+
+[transport]
+PORT = 12061
+PLUGINS = udp
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-p1-service-transport.sock
+
+

@@ -1,0 +1,107 @@
+[transport]
+AUTOSTART = @AUTOSTART@
+@JAVAPORT@PORT = 2091
+HOSTNAME = localhost
+BINARY = gnunet-service-transport
+# PREFIX = valgrind
+NEIGHBOUR_LIMIT = 50
+ACCEPT_FROM = 127.0.0.1;
+ACCEPT_FROM6 = ::1;
+PLUGINS = tcp udp
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-transport.sock
+BLACKLIST_FILE = $GNUNET_CONFIG_HOME/transport/blacklist
+UNIX_MATCH_UID = NO
+UNIX_MATCH_GID = YES
+# DISABLE_SOCKET_FORWARDING = NO
+# USERNAME =
+# MAXBUF =
+# TIMEOUT =
+# DISABLEV6 =
+# BINDTO =
+# REJECT_FROM =
+# REJECT_FROM6 =
+# PREFIX = valgrind --leak-check=full
+
+# Configuration settings related to traffic manipulation for testing purposes
+# Distance
+# MANIPULATE_DISTANCE_IN = 1
+# MANIPULATE_DISTANCE_OUT = 1
+# Delay; WARNING: to large values may lead to peers not connecting!
+# MANIPULATE_DELAY_IN = 1 ms
+# MANIPULATE_DELAY_OUT = 1 ms
+
+
+[transport-unix]
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-transport-plugin-unix.sock
+TESTING_IGNORE_KEYS = ACCEPT_FROM;
+
+[transport-tcp]
+# Use 0 to ONLY advertise as a peer behind NAT (no port binding)
+PORT = 2086
+ADVERTISED_PORT = 2086
+TESTING_IGNORE_KEYS = ACCEPT_FROM;
+
+# Maximum number of open TCP connections allowed
+MAX_CONNECTIONS = 128
+
+TIMEOUT = 5 s
+# ACCEPT_FROM =
+# ACCEPT_FROM6 =
+# REJECT_FROM =
+# REJECT_FROM6 =
+# BINDTO =
+MAX_CONNECTIONS = 128
+
+[transport-udp]
+# Use PORT = 0 to autodetect a port available
+PORT = 2086
+BROADCAST = YES
+BROADCAST_RECEIVE = YES
+BROADCAST_INTERVAL = 30 s
+MAX_BPS = 1000000
+TESTING_IGNORE_KEYS = ACCEPT_FROM;
+
+[transport-http_client]
+MAX_CONNECTIONS = 128
+TESTING_IGNORE_KEYS = ACCEPT_FROM;
+
+[transport-http_server]
+#EXTERNAL_HOSTNAME = <your hostname/path>
+PORT = 1080
+ADVERTISED_PORT = 1080
+MAX_CONNECTIONS = 128
+TESTING_IGNORE_KEYS = ACCEPT_FROM;
+
+[transport-https_client]
+MAX_CONNECTIONS = 128
+TESTING_IGNORE_KEYS = ACCEPT_FROM;
+
+[transport-https_server]
+# EXTERNAL_HOSTNAME = <your hostname/path>
+# EXTERNAL_HOSTNAME_ONLY = YES
+# If you have a valid SSL certificate for your external hostname tell,
+# clients to verify it
+# VERIFY_EXTERNAL_HOSTNAME = YES
+# Does the external hostname use the same port?
+# EXTERNAL_HOSTNAME_USE_PORT = YES
+PORT = 4433
+ADVERTISED_PORT = 4433
+CRYPTO_INIT = NORMAL
+KEY_FILE = $GNUNET_DATA_HOME/transport/https.key
+CERT_FILE = $GNUNET_DATA_HOME/transport/https.cert
+MAX_CONNECTIONS = 128
+TESTING_IGNORE_KEYS = ACCEPT_FROM;
+
+[transport-wlan]
+# Name of the interface in monitor mode (typically monX)
+INTERFACE = mon0
+# Real hardware, no testing
+TESTMODE = 0
+TESTING_IGNORE_KEYS = ACCEPT_FROM;
+
+[transport-bluetooth]
+# Name of the interface (typically hciX)
+INTERFACE = hci0
+# Real hardware, no testing
+TESTMODE = 0
+TESTING_IGNORE_KEYS = ACCEPT_FROM;

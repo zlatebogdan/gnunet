@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 88
+gnunet-peerinfo.gcno
+test_gnunet_peerinfo.py
+Makefile.in
+Makefile
+gnunet-peerinfo
+.deps
+
+END

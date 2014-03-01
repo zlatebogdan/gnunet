@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/32334/gnunet/src/arm
+END
+test_gnunet_service_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/29905/gnunet/src/arm/test_gnunet_service_arm.c
+END
+arm_monitor_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31559/gnunet/src/arm/arm_monitor_api.c
+END
+test_exponential_backoff.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31559/gnunet/src/arm/test_exponential_backoff.c
+END
+test_arm_api_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30043/gnunet/src/arm/test_arm_api_data.conf
+END
+arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/30741/gnunet/src/arm/arm.h
+END
+arm.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31660/gnunet/src/arm/arm.conf.in
+END
+test_arm_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29905/gnunet/src/arm/test_arm_api.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32149/gnunet/src/arm/Makefile.am
+END
+arm_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31736/gnunet/src/arm/arm_api.c
+END
+test_gnunet_arm.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28673/gnunet/src/arm/test_gnunet_arm.py.in
+END
+gnunet-service-arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32334/gnunet/src/arm/gnunet-service-arm.c
+END
+mockup-service.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/29723/gnunet/src/arm/mockup-service.c
+END
+gnunet-arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/30960/gnunet/src/arm/gnunet-arm.c
+END
+mockup_service
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10191/gnunet/src/arm/mockup_service
+END

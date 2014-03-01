@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 57
+gnunet-service-psyc
+Makefile
+Makefile.in
+psyc.conf
+.deps
+
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/32357/gnunet/doc
+END
+gnunet-c-tutorial.tex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27677/gnunet/doc/gnunet-c-tutorial.tex
+END
+structure.dot
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/30217/gnunet/doc/structure.dot
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/31712/gnunet/doc/Makefile.am
+END
+coverage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8798/gnunet/doc/coverage.txt
+END
+gnunet-c-tutorial.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27544/gnunet/doc/gnunet-c-tutorial.pdf
+END
+testbed_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/29905/gnunet/doc/testbed_test.c
+END

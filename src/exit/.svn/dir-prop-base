@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 77
+Makefile.in
+Makefile.am
+Makefile
+gnunet-helper-exit
+gnunet-daemon-exit
+.deps
+
+END

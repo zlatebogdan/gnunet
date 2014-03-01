@@ -1,0 +1,15 @@
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-gnunet-peerinfo/
+
+[peerinfo]
+PORT = 22354
+
+[dns]
+AUTOSTART = NO
+
+
+
+[nse]
+AUTOSTART = NO
+
+

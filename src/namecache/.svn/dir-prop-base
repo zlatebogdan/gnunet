@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 185
+zonefiles
+test_plugin_namecache_sqlite
+test_plugin_namecache_postgres
+test_namecache_api_cache_block
+namecache.conf
+Makefile.in
+Makefile
+gnunet-service-namecache
+gnunet-namecache
+.deps
+
+END

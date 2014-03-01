@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/32149/gnunet/src/nse
+END
+nse_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/29905/gnunet/src/nse/nse_api.c
+END
+hostkeys.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/18343/gnunet/src/nse/hostkeys.dat
+END
+perf_kdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/30062/gnunet/src/nse/perf_kdf.c
+END
+gnunet-service-nse.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32124/gnunet/src/nse/gnunet-service-nse.c
+END
+gnunet-nse-profiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31559/gnunet/src/nse/gnunet-nse-profiler.c
+END
+test_nse.conf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/30044/gnunet/src/nse/test_nse.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32149/gnunet/src/nse/Makefile.am
+END
+nse_infiniband.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30044/gnunet/src/nse/nse_infiniband.conf
+END
+nse_profiler_test.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30044/gnunet/src/nse/nse_profiler_test.conf
+END
+nse.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28019/gnunet/src/nse/nse.h
+END
+test_nse_multipeer.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29905/gnunet/src/nse/test_nse_multipeer.c
+END
+nse.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31142/gnunet/src/nse/nse.conf.in
+END
+test_nse_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29905/gnunet/src/nse/test_nse_api.c
+END

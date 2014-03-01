@@ -1,0 +1,14 @@
+@INLINE@ test_transport_defaults.conf
+[PATHS]
+
+[arm]
+DEFAULTSERVICES = transport
+
+[transport-tcp]
+PORT = 2094
+
+[transport-udp]
+PORT = 2094
+
+
+

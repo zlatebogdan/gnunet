@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/32149/gnunet/src/conversation
+END
+plugin_gnsrecord_conversation.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/30216/gnunet/src/conversation/plugin_gnsrecord_conversation.c
+END
+conversation_api_call.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31740/gnunet/src/conversation/conversation_api_call.c
+END
+test_conversation_api_reject.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31673/gnunet/src/conversation/test_conversation_api_reject.c
+END
+gnunet-helper-audio-playback.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31940/gnunet/src/conversation/gnunet-helper-audio-playback.c
+END
+test_conversation_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31673/gnunet/src/conversation/test_conversation_api.c
+END
+microphone.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29905/gnunet/src/conversation/microphone.c
+END
+conversation_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/31162/gnunet/src/conversation/conversation_api.c
+END
+gnunet-service-conversation.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/31740/gnunet/src/conversation/gnunet-service-conversation.c
+END
+gnunet-conversation.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32133/gnunet/src/conversation/gnunet-conversation.c
+END
+test_conversation_api_twocalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31673/gnunet/src/conversation/test_conversation_api_twocalls.c
+END
+test_conversation.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31324/gnunet/src/conversation/test_conversation.conf
+END
+conversation.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31415/gnunet/src/conversation/conversation.h
+END
+conversation.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/31942/gnunet/src/conversation/conversation.conf.in
+END
+gnunet-helper-audio-record-gst.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31940/gnunet/src/conversation/gnunet-helper-audio-record-gst.c
+END
+gnunet-conversation-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/29905/gnunet/src/conversation/gnunet-conversation-test.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32149/gnunet/src/conversation/Makefile.am
+END
+gnunet-helper-audio-record.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31940/gnunet/src/conversation/gnunet-helper-audio-record.c
+END
+speaker.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/29905/gnunet/src/conversation/speaker.c
+END
+gnunet-helper-audio-playback-gst.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/31940/gnunet/src/conversation/gnunet-helper-audio-playback-gst.c
+END

@@ -1,0 +1,34 @@
+[namestore]
+AUTOSTART = @AUTOSTART@
+USER_SERVICE = YES
+UNIXPATH = $GNUNET_USER_RUNTIME_DIR/gnunet-service-namestore.sock
+UNIX_MATCH_UID = NO
+UNIX_MATCH_GID = YES
+@UNIXONLY@ PORT = 2099
+HOSTNAME = localhost
+BINARY = gnunet-service-namestore
+ACCEPT_FROM = 127.0.0.1;
+ACCEPT_FROM6 = ::1;
+DATABASE = sqlite
+
+[namestore-sqlite]
+FILENAME = $GNUNET_DATA_HOME/namestore/sqlite.db
+
+[namestore-postgres]
+CONFIG = connect_timeout=10; dbname=gnunet
+TEMPORARY_TABLE = NO
+
+[uri]
+gns = gnunet-namestore
+
+
+[fcfsd]
+# Name of the fcfs registration service binary (for ARM)
+BINARY = gnunet-namestore-fcfsd
+AUTOSTART = NO
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-service-fcfsd.sock
+
+# On what port does the FCFS daemon listen for HTTP clients?
+HTTPPORT = 18080
+
+

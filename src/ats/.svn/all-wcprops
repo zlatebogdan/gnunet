@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/32385/gnunet/src/ats
+END
+test_ats_solver_convergence.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/31915/gnunet/src/ats/test_ats_solver_convergence.c
+END
+test_ats_api_scheduling_destroy_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_scheduling_destroy_session.c
+END
+test_ats_api_scheduling_add_address.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_scheduling_add_address.c
+END
+ats_api_performance.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31559/gnunet/src/ats/ats_api_performance.c
+END
+gnunet-service-ats_performance.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31885/gnunet/src/ats/gnunet-service-ats_performance.c
+END
+gnunet-service-ats_performance.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28897/gnunet/src/ats/gnunet-service-ats_performance.h
+END
+test_ats_api_performance_list_all_addresses_active.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_performance_list_all_addresses_active.c
+END
+plugin_ats_ril.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32338/gnunet/src/ats/plugin_ats_ril.c
+END
+test_ats_api_scheduling_add_address_inbound.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_scheduling_add_address_inbound.c
+END
+plugin_ats_ril.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31244/gnunet/src/ats/plugin_ats_ril.h
+END
+gnunet-service-ats_addresses.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31933/gnunet/src/ats/gnunet-service-ats_addresses.c
+END
+gnunet-service-ats.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28897/gnunet/src/ats/gnunet-service-ats.c
+END
+perf_ats_simplistic_delay.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28404/gnunet/src/ats/perf_ats_simplistic_delay.conf
+END
+ats_api_scheduling.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/31885/gnunet/src/ats/ats_api_scheduling.c
+END
+gnunet-service-ats_addresses.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31927/gnunet/src/ats/gnunet-service-ats_addresses.h
+END
+test_ats_solver_alternative_after_delete_address.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_solver_alternative_after_delete_address.c
+END
+gnunet-service-ats.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29292/gnunet/src/ats/gnunet-service-ats.h
+END
+ats.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32062/gnunet/src/ats/ats.conf.in
+END
+test_ats_api_scheduling_add_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_scheduling_add_session.c
+END
+perf_ats_solver.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30581/gnunet/src/ats/perf_ats_solver.conf
+END
+test_ats_api_performance_list_peer_addresses.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_performance_list_peer_addresses.c
+END
+perf_ats_solver_mlp.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30445/gnunet/src/ats/perf_ats_solver_mlp.conf
+END
+perf_ats_solver_proportional.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/30445/gnunet/src/ats/perf_ats_solver_proportional.conf
+END
+plugin_ats_mlp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32144/gnunet/src/ats/plugin_ats_mlp.c
+END
+plugin_ats_proportional.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32294/gnunet/src/ats/plugin_ats_proportional.c
+END
+test_ats_api_performance_list_all_addresses.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_performance_list_all_addresses.c
+END
+plugin_ats_mlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32063/gnunet/src/ats/plugin_ats_mlp.h
+END
+plugin_ats_proportional.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31244/gnunet/src/ats/plugin_ats_proportional.h
+END
+test_ats_api_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30469/gnunet/src/ats/test_ats_api_common.c
+END
+gnunet-service-ats_reservations.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32116/gnunet/src/ats/gnunet-service-ats_reservations.c
+END
+gnunet-service-ats_scheduling.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31927/gnunet/src/ats/gnunet-service-ats_scheduling.c
+END
+gnunet-service-ats_normalization.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31559/gnunet/src/ats/gnunet-service-ats_normalization.c
+END
+perf_ats_simplistic_bandwidth.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28812/gnunet/src/ats/perf_ats_simplistic_bandwidth.conf
+END
+test_ats_api_scheduling_add_address_duplicate.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_scheduling_add_address_duplicate.c
+END
+test_ats_solver_proportional.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/29600/gnunet/src/ats/test_ats_solver_proportional.conf
+END
+test_ats_api_performance_monitor_initial_callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_performance_monitor_initial_callback.c
+END
+gnunet-service-ats_reservations.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18000/gnunet/src/ats/gnunet-service-ats_reservations.h
+END
+test_ats_api_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29764/gnunet/src/ats/test_ats_api_common.h
+END
+gnunet-service-ats_scheduling.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31927/gnunet/src/ats/gnunet-service-ats_scheduling.h
+END
+perf_ats_solver.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32059/gnunet/src/ats/perf_ats_solver.c
+END
+gnunet-service-ats_normalization.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31016/gnunet/src/ats/gnunet-service-ats_normalization.h
+END
+test_ats_mlp.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30044/gnunet/src/ats/test_ats_mlp.conf
+END
+test_ats_solver_preferences.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_solver_preferences.c
+END
+perf_ats_solver_ril.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30445/gnunet/src/ats/perf_ats_solver_ril.conf
+END
+test_ats_api_performance_monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_performance_monitor.c
+END
+test_ats_api_scheduling_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_scheduling_init.c
+END
+test_ats_mlp_averaging.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/31736/gnunet/src/ats/test_ats_mlp_averaging.c
+END
+test_ats_api.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30777/gnunet/src/ats/test_ats_api.conf
+END
+test_ats_solver_request_and_add_address.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/32385/gnunet/src/ats/test_ats_solver_request_and_add_address.c
+END
+test_ats_solver_add_address_and_request.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_solver_add_address_and_request.c
+END
+test_ats_solver_mlp.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/29600/gnunet/src/ats/test_ats_solver_mlp.conf
+END
+ats.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/31885/gnunet/src/ats/ats.h
+END
+test_ats_solver_request_and_delete_address.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_solver_request_and_delete_address.c
+END
+test_ats_api_bandwidth_consumption.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/31559/gnunet/src/ats/test_ats_api_bandwidth_consumption.c
+END
+test_ats_api_scheduling_destroy_address.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_scheduling_destroy_address.c
+END
+test_ats_simplistic_pref_aging.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_simplistic_pref_aging.c
+END
+gnunet-ats-solver-eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/32310/gnunet/src/ats/gnunet-ats-solver-eval.c
+END
+test_ats_solver_default.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30044/gnunet/src/ats/test_ats_solver_default.conf
+END
+gnunet-ats-solver-eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/32310/gnunet/src/ats/gnunet-ats-solver-eval.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32270/gnunet/src/ats/Makefile.am
+END
+test_ats_solver_ril.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30850/gnunet/src/ats/test_ats_solver_ril.conf
+END
+test_ats_solver_add_address.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_solver_add_address.c
+END
+test_ats_api_scheduling_destroy_address_twice.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31861/gnunet/src/ats/test_ats_api_scheduling_destroy_address_twice.c
+END

@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 123
+test_friend_hello
+gnunet-hello
+hello.gcno
+hello.gcda
+test_hello.gcda
+test_hello.gcno
+test_hello
+Makefile.in
+Makefile
+.deps
+
+END

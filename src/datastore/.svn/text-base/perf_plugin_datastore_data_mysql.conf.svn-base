@@ -1,0 +1,10 @@
+@INLINE@ test_defaults.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/perf-gnunet-datastore-mysql/
+
+[datastore]
+DATABASE = mysql
+
+[datastore-mysql]
+DATABASE = gnunetcheck
+

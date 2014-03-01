@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/32216/gnunet/src/peerinfo-tool
+END
+test_gnunet_peerinfo.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/32216/gnunet/src/peerinfo-tool/test_gnunet_peerinfo.py.in
+END
+test_gnunet_peerinfo_data.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/30043/gnunet/src/peerinfo-tool/test_gnunet_peerinfo_data.conf
+END
+gnunet-peerinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32025/gnunet/src/peerinfo-tool/gnunet-peerinfo.c
+END
+gnunet-peerinfo_plugins.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/31559/gnunet/src/peerinfo-tool/gnunet-peerinfo_plugins.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/32149/gnunet/src/peerinfo-tool/Makefile.am
+END
+gnunet-peerinfo_plugins.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/20433/gnunet/src/peerinfo-tool/gnunet-peerinfo_plugins.h
+END

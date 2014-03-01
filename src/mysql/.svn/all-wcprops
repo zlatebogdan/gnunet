@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/31559/gnunet/src/mysql
+END
+mysql.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31559/gnunet/src/mysql/mysql.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/30685/gnunet/src/mysql/Makefile.am
+END

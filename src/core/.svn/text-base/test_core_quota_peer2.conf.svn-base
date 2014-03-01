@@ -1,0 +1,55 @@
+@INLINE@ test_core_defaults.conf
+[PATHS]
+GNUNET_TEST_HOME = /tmp/test-gnunet-core-quota-sym-peer-2/
+
+[arm]
+PORT = 22476
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-sym-p2-service-arm.sock
+
+[statistics]
+PORT = 22477
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-sym-p2-service-statistics.sock
+
+[resolver]
+PORT = 22474
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-sym-p2-service-resolver.sock
+
+[peerinfo]
+PORT = 22479
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-sym-p2-service-peerinfo.sock
+
+[transport]
+PORT = 22475
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-sym-p2-service-transport.sock
+
+[core]
+PORT = 22480
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-sym-p2-service-core.sock
+
+[ats]
+PORT = 22482
+UNIXPATH = $GNUNET_RUNTIME_DIR/gnunet-core-sym-p2-service-ats.sock
+# UNSPECIFIED
+UNSPECIFIED_QUOTA_IN = 10240
+UNSPECIFIED_QUOTA_OUT = 10240
+# LOOPBACK
+LOOPBACK_QUOTA_IN = 10240
+LOOPBACK_QUOTA_OUT = 10240
+# LAN
+LAN_QUOTA_IN = 10240
+LAN_QUOTA_OUT = 10240
+# WAN
+WAN_QUOTA_IN = 10240
+WAN_QUOTA_OUT = 10240
+# WLAN
+WLAN_QUOTA_IN = 10240
+WLAN_QUOTA_OUT = 10240
+
+[transport-tcp]
+PORT = 22467
+
+[transport-udp]
+PORT = 22468
+
+[transport-http]
+PORT = 22469
